@@ -1,0 +1,37 @@
+﻿OuterPackageUnitID|UnitName|
+5|bottle, applicator|
+6|bottle, dropper|
+7|bottle, pump|
+8|bottle, spray|
+14|jar|
+15|jug|
+17|pen|
+23|tubex|
+25|unit dose container|
+26|unit dose cup|
+29|drum|
+30|sleeve|
+31|unit dose strip|
+33|tube, pump dispenser|
+34|Microinjection System|
+1|ampule|
+2|bag|
+3|blister pack|
+4|bottle|
+9|box|
+10|can|
+11|canister|
+12|cartridge|
+13|container|
+16|package|
+18|pouch|
+19|stick|
+20|syringe|
+21|tray|
+22|tube|
+24|unit dose blister pack|
+27|packet|
+28|vial|
+32|unit dose blister card|
+36|pre-filled syringe with needle|
+37|pre-filled syringe autoinjector|

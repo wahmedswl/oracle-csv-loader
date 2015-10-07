@@ -1,0 +1,7 @@
+﻿DEAClassificationID|Classification|
+1|schedule I|
+6|NA|
+2|schedule II|
+3|schedule III|
+4|schedule IV|
+5|schedule V|

@@ -1,0 +1,2298 @@
+﻿CompanyID|CompanyName|CompanyNameShort|LabelerCode|ParentCompanyID|MVX|
+1666|Company Parent Child Relationships|CPCREL||||
+529|Nadin Co|Nadin|14836|1666||
+2342|Micro Labs Limited|Micro Labs|00000|1666||
+2345|Theratechnologies, Inc|Theratech|00000|1666||
+2348|Okasa Pvt Ltd|Okasa|00000|1666||
+28|Madaus and Co.|Madaus||1666||
+311|Lyne Laboratories Inc|Lyne |00374|1666||
+711|Great Southern Laboratories|Grt South |51301|1666||
+995|Bio Pharm Inc|Bio Pharm|59741|1666||
+1019|Hill Laboratories Inc|Hill Labs|60433|1666||
+1063|Accucaps Industries Ltd|Accucaps|61474|1666||
+1157|Contract Pharmaceuticals Ltd |CPL|00000|1666||
+1215|Genesis Products, a Division Rising Pharmaceuticals|Genesis |68585|1228||
+1237|Groupe Parima Inc|Grpe Parim|65179|1666||
+1635|Capsugel|Capsugel|59630|1666||
+1718|CIMA Laboratories Inc|CIMA|55253|1666||
+1777|Gemini Pharmaceuticals Inc|Gemini|00000|1666||
+1788|Norgine Limited|Norgine |00000|1666||
+1806|Jazeera Pharmaceuticals Industries|Jazeera |68289|961||
+1851|Murty Pharmaceuticals Inc|Murty|63209|1666||
+1865|CornerStone Research & Development, Inc|CornrStone|00000|1666||
+1880|Best Formulation, Inc|Best Form|00000|1666||
+1881|Soft Gel Technologies, Inc|SGTI|00000|1666||
+1886|Arrow Pharm|Arrow|00000|752||
+1894|Natco Pharma Limited|Natco|00000|1666||
+1912|Cedar Pharmaceuticals LLC|Cedar|00000|1666||
+1915|Shasun Chemicals & Drugs Limited|Shasun |00000|1666||
+1920|Emcure Pharmaceutical, Ltd|Emcure |00000|1666||
+1934|FDC Vitamin Inc.|FDC Vit|00000|1666||
+1935|Matrix Laboratories|Matrix|00000|594||
+1941|Acupac Packaging, Inc.|Acupac|00000|1666||
+1945|Hydrite Chemical Co.,|Hydrite|00000|1666||
+1947|MN Pharmaceuticals|MN|00000|1666||
+1955|Catalent Pharma Solutions|Catalent|00000|1666||
+1958|Ebewe|Ebewe|00000|224||
+1960|Nicholas Piramal India Limited|Nicholas |00000|1666||
+1972|Controlled Therapeutics|CT|00000|1666||
+1981|Aveva Drug Delivery Systems|Aveva|00000|1666||
+1991|Almac Pharma Services|Almac |00000|1666||
+1996|TG United Inc.|TG United |00000|1666||
+1999|Garcoa, Inc|Garcoa|00000|1666||
+2010|Debio Pharm|Debio|00000|1666||
+2016|Collegium Pharmaceutical, Inc.|Collegium|00000|1666||
+2026|Advent Pharmaceuticals, Inc|Advent|00000|1666||
+2029|AAI Development Services|AAI DS|00000|1666||
+2057|Keata Pharma Inc.|Keata|00000|1666||
+2058|Draxis Pharma|Draxis |00000|997||
+2066|Ipca Laboratories|Ipca|00000|1666||
+2078|Bell-More Labs, Inc.|Bell-More |00000|1666||
+2085|EMS Contract Packaging|EMS |00000|1666||
+2088|Gland Pharma Ltd|Gland|00000|1964||
+2089|Cody Laboratories, Inc|Cody|00000|1666||
+2091|MeriCal, Inc.|MeriCal|00000|1666||
+2110|Cerovene Inc.|Cerovene|24561|1666||
+2111|Intergel Division of IVC Industries, Inc.|Intergel|62112|1666||
+2133|FDC Limited|FDC Ltd|00000|1666||
+2144|Ethypharm, Inc|Ethypharm|00000|1666||
+2147|GTC Biotherapeutics|GTC |00000|1666||
+2148|Alembic Limited|Alembic|46708|1666||
+2152|Novel Laboratories, Inc|Novel Lab|00000|1666||
+2167|Avema Pharma Solutions|Avema|00000|1864||
+2168|Deseret Laboratories|Deseret La|00000|1666||
+2173|Aaron Industries, Inc|Aaron|00000|1666||
+2188|Anika Therapeutics, Inc|Anika |00000|1666||
+2204|Fresenius Kabi Ltd|Fresenius |18124|1828||
+2206|Integrated Pharmaceuticals|Integrated|00000|1666||
+2211|Halo Pharmaceuticals, Inc|Halo|00000|1666||
+2220|Alkem Laboratories, Inc|Alkem |00000|1666||
+2237|NovaDel Pharma|NovaDel|00000|1666||
+2245|Biocon Limited|Biocon Ltd|00000|1666||
+2261|Holopack Verpackungstechnik GmbH|Holopack|00000|1666||
+2262|Norwich Pharmaceuticals, Inc|Norwich |00000|1577||
+2264|MIPHARM S.p. A.|MIPHARM |00000|1666||
+2272|Confab Laboratories Inc|Confab|00000|1666||
+2284|Gorbec Pharmaceuticals Services Inc|Gorbec|37811|1666||
+2289|Mitim SRL|Mitim SRL|00000|1666||
+2290|MonoSol Rx, LLC|MonoSol Rx|00000|1666||
+2291|Julphar|Julphar|00000|1666||
+2295|Granules India Limited|Granules|00000|1666||
+2307|NeoStrata Company Inc|NeoStrata |00000|1666||
+2313|IPR Pharmaceuticals, Inc.|IPR|54921|1666||
+2318|VeroScience LLC|VeroScienc|00000|1666||
+2322|Steri-Pharma LLC|Steri-Phar|00000|1666||
+2325|Dainippon Sumitomo Pharma Co; Ltd.|DSP|00000|1666||
+2329|Tidor Pharma|Tidor|00000|1666||
+2185|Cilag AG|Cilag AG|00000|1666||
+2235|Hisamitsu Pharmaceutical|Hisamitsu |00000|1666||
+2236|IBSA Institut Bioshimique SA|IBSA|00000|1666||
+2042|Nutri-Force Nutrition|NFN|00000|1666||
+2177|Nutritional Laboratories International|Nutri Lab |00000|1666||
+2241|Nuvo Manufacturing|Nuvo|00000|1666||
+1078|Ony Inc|Ony|61938|1666||
+1575|Sinclair Pharmaceuticals. LTD|Sinclair|12350|1666||
+2156|Recipharm |Recipharm|00000|1666||
+2083|Unique Pharmaceuticals (a division of JB Chemicals and Pharmaceuticals Ltd.)|Unique|00000|1666||
+2351|UPM Pharmaceuticals|UPM|00000|1666||
+1837|Antibioticos do Brasil Ltda|Antibiotic|00000|1666||
+1754|AUTOMATIC LIQUID PACKAGING INC |Auto Liq |48879|1666||
+1849|AR-Med Ltd|AR-Med Ltd|00000|1666||
+1592|PCH Pharmachemie|PCH |00000|233||
+2276|Tedec-Meiji Farma, SA|Tedec-Meij|00000|1666||
+1815|Belmac Laboratories|Belmac Lab|00000|1666||
+2323|Bluepharma Industria Farmaceutica, SA|Bluepharma|00000|1666||
+1956|Chr. Hansen A/S|Chr. Hanse|00000|1666||
+1971|Fleet Laboratories Ltd;|Fleet|00000|1666||
+2164|Hemofarm USA Corporation|Hemopharm|24717|1666||
+2013|Hetero Drugs Limited|Hetero|00000|1666||
+1808|Inalco S.P.A|Inalco |00000|1666||
+1750|InvaGen Pharmaceuticals, Inc|InvaGen|67787|1666||
+1907|Leo Laboratories LTD|Leo Lab|61135|1666||
+1891|LTS Lohmann Therapy Systems Corp|LTS |59568|1666||
+1604|Nestle USA, Inc|Nestle|50000|1666||
+2255|Nordmark Arzneimittel GmbH & Co. KG|Nordmark |00000|1666||
+2094|Patheon UK Ltd|Patheon UK|00000|1666||
+1408|JB Laboratories Inc|JB Labs|51111|1715||
+2047|G.Pohl-Boskamp GmbH and Co|G.Pohl-Bos|00000|1666||
+1791|Gedeon Richter, Ltd|Gedeon Ric|00000|1666||
+2296|Sciarra Labortories Inc|Sciarra|00000|1666||
+2309|Summit Pharmaceuticals|Summit|00000|1666||
+2355|Rechon Life Sciences AB|Rechon |00000|1666||
+2354|Leon Farma, SA, a Division of ChemoGroup|Leon|00000|1666||
+2356|Laboratorios Liconsa, SA, a Division of ChemoGroup|Liconsa|00000|1666||
+2359|Oman Pharmaceuticals |Oman|00000|1666||
+597|Pharmatek Inc|Pharmatek|39822|1666||
+2366|Avanthi Inc|Avanthi|00000|1666||
+1933|Osmotica Pharmaceuticals|Osmotica|00000|1666||
+2368|Span Packaging Services|Span|55049|1666||
+2367|Weimer Pharma GmbH|Weimer|00000|1666||
+2371|Kamada Ltd|Kamada|00000|1666||
+2377|Dermazone Solutions, Inc.|Dermazone|00000|1666||
+2381|Wintac Limited|Wintac |00000|1666||
+330|Research Industries Corporation|Resarch|00433|1666||
+461|Pharmaceutical Formulations Inc|PharmaForm|10916|1666||
+633|PF Laboratories Inc|PF Labs|48692|1666||
+1101|Proclinical Inc|Proclinic|62278|1666||
+1287|Ilex Pharmaceuticals Lp|Ilex |66410|1666||
+1733|RXN PHARMA LLC |RXN Pharma|68451|1666||
+1759|Cheminor Drugs Ltd|Cheminor |55112|1666||
+1778|CHEMINS CO INC |CHEMINS |48644|1666||
+1852|Laboratories Besins International|Besins|00000|1666||
+1867|MSD|MSD |00000|1666||
+1874|Cumberland Swan|Cumbld Swn|00000|1666||
+1875|Rush & Hebble Company, Inc|Rush & Heb|00000|1666||
+1906|Galephar Pharmaceutical Research Inc.|Galephar|00000|1666||
+1951|Lacsa (Pty Limited|Lacsa|00000|1666||
+1963|Sonar Products, Inc|Sonar|00000|1666||
+2027|Chesapeake Biological Laboratories, Inc.|CBL|00000|1666||
+2038|Neuro-Hitech, Inc.|Neuro-Hite|00000|1666||
+2040|Carrington Laboratories, Inc|Carrington|00000|1666||
+2052|Theragen|Theragen|00000|1666||
+2090|Unico Holdings|Unico|00000|1666||
+2126|Halsey Drug Company|Halsey |00000|1666||
+2176|CCI|CCI|00000|1666||
+2223|Denver Chemical, Inc.|DCI|00000|1666||
+2280|Mass Biologics|Mass|14362|1666||
+2306|Huahai US Inc|Huahai US|00000|1666||
+2324|Belcher Pharmaceuticals|Blecher|00000|1666||
+2337|Facta Farmaceutici SpA|Facta |00000|1666||
+2384|Indicus Pharma|Indicus|00000|1666||
+2389|Instituto BioChimico|BioChimico|00000|1666||
+2395|Bushu Pharmaceuticals Ltd|Bushu|00000|1666||
+2402|Cispharma, Inc|Cispharma|00000|1666||
+2403|Arizona Nutritional Supplements, Inc.|Arizona|00000|1666||
+2407|AAA Pharmaceuticals|AAA|00000|1666||
+2409|Kareway Product Inc|Kareway|00000|1666||
+1730|Cadila Healthcare LTD|Cadila|65841|1674||
+2417|Asept Pak Inc|Asept Pak|00000|1666||
+2424|PharmaPac  LLC|Pharma Pac|00000|1666||
+2438|Elite Laboratories, Inc.|Elite |00000|1666||
+2443|Hoffmann-La Roche Inc.|Roche|00000|161||
+2446|Instituto Bioclon S.A. de C.V|Instituto|00000|1666||
+2448|BestSweet Inc|BestSweet|00000|1666||
+2450|AustarPharma LLC|AustarPhar|00000|1666||
+2460|IriSys, Inc.|IriSys|00000|1666||
+2466|Dynamit Nobel GmbH|Dynamit|00000|1666||
+2470|Altropro Pharmaceuticals|Altropro|00000|1666||
+2481|Novopharm Limited|Novopharm|00000|874||
+2486|Blu Caribe Pharmaceuticals|Blu|00000|2003||
+2268|Navinta, LLC|Navinta|00000|2459||
+2473|G Production Inc|G |00000|1666||
+2017|ICN Puerto Rico, Inc|ICN|00000|1666||
+2071|3M Health Care LTD|3M |11517|231||
+2497|3M Drug Delivery Systems|3M |00000|231||
+2503|H Q Specialty Pharma Corporation|H Q |00000|1666||
+2504|Mustafa Nevzat Ilac Sanayii A.S.|Mustafa|00000|1666||
+2480|A L and S LLC|A L and S |00000|511||
+2484|Able C and C Co|Able|13733|2407||
+2509|FFF Enterprises|FFF|68403|1666||
+2513|ALPEX PHARMA|ALPEX|00000|1666||
+1866|AccuMed Inc|AccuMed |00000|1666||
+1842|Advance Pharmaceuticals|Advance|00000|1666||
+2445|Zhejiang Huahai Pharmaceutical Co., Ltd|Zhejiang |00000|1666||
+1860|Yung Shin Pharmaceutical Industrial Company LTD|Yung Shin|00000|1666||
+2393|Winder Laboratories, LLC|Winder |00000|1666||
+2523|Laboratoire Unither|Unither|00000|1666||
+1964|Vetter Pharma|Vetter|00000|1666||
+2032|Vascular Solutions|Vascular |00000|1666||
+1954|USV Limited|USV Ltd|00000|1666||
+2529|Laboratoires Chemineau|Lab|00000|1666||
+2531|American Antibotics, LLC|AA LLC|00000|1666||
+2532|G Production Inc|G|00000|1666||
+1731|Unigene Laboratory Inc|Unigene|67885|1666||
+1873|Triad Contract Manufacturing|Triad |00000|1666||
+870|Tri Med Laboratories Inc|Tri Med |55654|1666||
+1979|Therapex|Therapex|00000|443||
+1180|Teikoku Seiyaku Co Ltd|Teikoku|64032|1666||
+1789|Tapemark Company|Tapemark |00000|1666||
+2065|Swiss Cap AG|Swiss Cap |00000|1666||
+2539|Merus Labs|Merus|00000|1666||
+2544|Lotus Pharmaceutical Co Ltd|Lotus|00000|1666||
+1576|Sovereign Pharmaceuticals Ltd|Sovereign|00000|1666||
+539|Siegfried Ltd|Siegfried|17205|1666||
+2097|Sanquin Blood Supply Foundation |Sanquin |00000|1666||
+2252|Rottendorf Pharma GmbH|Rottendorf|00000|1666||
+1664|Rodlen Laboratories, Inc Sub Winston Laboratories|Rodlen |66358|1666||
+2405|Ritedose Corporation|Ritedose|00000|1666||
+2553|Indoco Remedies Ltd|Indoco|00000|1666||
+2554|Mirror Pharmaceuticals LLC|Mirror|00000|1666||
+2557|Stragen Pharma S.A.|Stragen |00000|1666||
+2558|Affymax Inc|Affymax |00000|1666||
+2380|ErgoJect, LLC|ErgoJect|00000|2144||
+2129|Rentschler Biotechnologie|Rentschler|00000|1666||
+2108|Raritan Pharmaceuticals|Raritan|00000|1666||
+2030|R.P. Scherer|R.P. Scher|00000|1955||
+1588|Quigley Corporation|Quigley|91108|1666||
+1862|QUALITY HOME HEALTHCARE INC |QUALITY HC|61458|1666||
+1871|Qualis Inc|Qualis Inc|00000|1666||
+1809|QPharma, LLC|QPharma, |00000|1666||
+2564|PharmaTech USA |PharmaTech|00000|1666||
+1654|Provident Pharmaceuticals LLC|Provident|10149|1666||
+2118|Protoform Labs|Protoform |00000|1666||
+2008|Progenics Pharmaceuticals, Inc|Progenics |00000|1666||
+2441|PreCision Dermatology, Inc.|PreCision|00000|1666||
+2571|GE Diabetes|GE Diabete|00000|1666||
+2410|Polichem SA|Polichem|00000|1666||
+1864|PL Developments|PL|00000|1666||
+2095|Pharmetics, Inc.|Pharmetics|52814|1666||
+127|Pharmavite, LLC|Pharmavite|31604|1666||
+1834|Pharmachemie B.V.|Pharmachem|00000|233||
+2579|SciVolutions Medical, LLC|SciVol|00000|1666||
+2580|ScieGen Pharmaceuticals, Inc|ScieGen|00000|1666||
+1710|Pharmaceutical Manufacturing Research Services Inc|PMRS|61607|1666||
+2358|Pharbil Waltrop GmbH|Pharbil |00000|1666||
+1636|Pegasus Laboratories Inc|Pegasus |10974|1666||
+1194|Pancap Inc|Pancap|64282|1666||
+2330|Osny Pharma|Osny |00000|1666||
+1884|Orion Corporation Orion Pharma|Orion|52483|1715||
+2594|Arena Pharmaceuticals, Inc.|Arena|00000|1666||
+590|Nutramax Products Inc|Nutramax|38206|1666||
+1615|Lil Drug Store Products, Inc|Lil Drug |00000|1666||
+1831|Laboratoires Carilene|Carilene|00000|1666||
+1755|Johnson and Johnson|J&J|00000|1666||
+1660|GC Hanford Manufacturing CO|GC Hanford|10515|1666||
+2599|Almirall Pharmaceuticals|Almirall|00000|1666||
+1535|Clonmel Healthcare Ltd|Clonmel|55190|1666||
+2600|Industrial Farmaceutica Cantabria|Industrial|00000|1666||
+1850|Can-Am Care|Can-Am |00000|1715||
+1600|Kimberly-Clark Corp|Kim-Clark|36000|1666||
+1836|Neil Laboratories|Neil|00000|1010||
+761|Gentrac Inc|Gentrac|52766|1666||
+312|Mylan Pharmaceuticals Inc|Mylan|00378|1666||
+2195|Mylan Pharmaceuticals Inc|Mylan|00378|312||
+416|Becton Dickinson|BD|08290|1666||
+999|Digestive Care Inc|Digestive |59767|1666||
+1463|Wockhardt USA, LLC|Wockhardt|64679|1666||
+267|Valeant Pharmaceuticals|Valeant|00187|1666||
+2003|Blu Pharmaceuticals, LLC|Blu Pharm|24658|1666||
+2207|Pfizer Injectables|Pfizer|00069|202||
+2248|Pfizer Injectables|Pfizer Inj|00009|2207||
+2374|Chattem, Inc. is a wholly-owned subsidiary of Sanofi-Aventis |Chattem|41167|180||
+2414|Pfizer Injectables|Pfizer|00013|2207||
+2597|AvPAK; a Division of AvKARE Inc|AvPAK|50268|2602||
+2319|Medimetriks Pharmaceuticals, Inc.|Medimetrik|43538|1666||
+2429|Medimetriks Pharmaceuticals, Inc.|Medimetrik|43538|2319||
+1323|Prasco Laboratories|Prasco|66993|1666||
+2221|Prasco Laboratories|Prasco|66993|1323||
+2610|Intellject Inc|Intellject|00000|1666||
+950|Stratus Pharmaceuticals Inc|Stratus|58980|1666||
+2612|Dexcel Pharma Technologies Ltd.|Dexcel |00000|1666||
+2613|Adrian Pharmaceuticals, LLC|Adrian|52096|1666||
+264|Ivax Corporation a Division of Teva USA|IVAX|00182|233||
+339|Teva Pharmaceutical Industries Ltd|Teva|00480|233||
+366|Ivax Research Inc a Division of Teva USA|IVAX|00575|233||
+384|Sicor Pharmaceuticals Inc A subsidiary of Teva Pharmaceuticals USA|Sicor|00703|233||
+968|Ivax Laboratories, Inc a Division of Teva USA|IVAX|59310|233||
+1742|Teva Neuroscience, Inc. |Teva Neuro|68546|233||
+2614|Delta Hi-Tech Inc|Delta|89134|1666||
+2485|West-Ward Injectables|West-Ward|00641|248||
+233|Teva Pharmaceuticals USA Inc|Teva|00093|1666||
+306|Baxter Medication Delivery|Baxter |00338|1666||
+373|Baxter Anesthesia/Critical Care|Baxter |00641|306||
+404|Major Pharmaceuticals Inc|Major |00904|2433||
+428|Baxter Anesthesia/Critical Care|Baxter |10019|306||
+1044|Baxter Anesthesia/Critical Care|Baxter |60977|306||
+1319|Baxter Pharmaceutical Solutions Llc|Baxter|66914|306||
+1325|Baxter Oncology GMBH|Baxter|67108|306||
+1657|Baxter Anesthesia/Critical Care Oncology|Baxter |10019|306||
+1689|ANI Pharmaceuticals, Inc.|ANI|62559|1666||
+1856|EMD Serono Inc|EMD Serono|44087|604||
+2081|Teva Specialty Pharmaceuticals|TSP|59310|233||
+2213|Teva Pharmaceuticals USA|Teva |50111|233||
+2219|Teva Pharmaceuticals USA|Teva|00555|358||
+2285|Teva Pharmaceuticals USA|Teva|00703|384||
+2383|Baxter Renal Division|Baxter|00941|306||
+2457|Teva Pharmaceuticals USA|Teva|00555|233||
+2616|Delta Hi-Tech, Inc|Delta|51709|2614||
+197|Janssen Pharmaceuticals, Inc, formerly Ortho-McNeil Pharmaceuticals|Janssen|00045|1755||
+209|Janssen Pharmaceuticals, Inc, formerly Ortho Womens Health & Urology, Division of|Janssen|00062|1755||
+236|Janssen Pharmaceuticals, Inc, formerly Ortho Pharmaceuticals a division of Ortho-McNeil-Janssen Pharmaceiuticals, Inc|Janssen|00107|1755||
+679|Janssen Phamaceuticals, formerly Primary Care, a division of Ortho-McNeil-Janssen Pharmaceuticals|Primary|50458|1755||
+906|Janssen Biotech,Inc , formerly Centocor Inc, a Dvision of Orho-McNeil-Janssen Pharmaceuticals, Inc|Janssen|57894|1755||
+985|Janssen Pharmaceuticals, Inc, fomerly Ortho-McNeil Neurologics, a division of Ortho-McNeil-Janssen Pharmaceuticals|Janssen|50458|1755||
+991|Janssen Products, LP, formerly Ortho Biotec , LP|Ortho Bio|59676|1755||
+1968|Janssen Therapeutics, Division of Janssen Products, LP, formerly Tibotec Therapeutics, Division of Centocor Ortho Biotech Product, L.P.|Janssen|59676|991||
+2194|Janssen Pharmaceuticals, Inc, formerly Pricara, a Division of Ortho-McNeil-Janssen  Pharmaceuticals, Inc|Janssen|50458|679||
+2387|Janssen Pharmaceuticals, Inc, formerly Ortho Womens Health and Urolog, Inc.|Janssen|50458|985||
+2419|Janssen Pharmaceuticals, Inc|Janssen |50458|1755||
+2420|Janssen Biotech, Inc.|Janssen|57894|1755||
+2422|Janssen Therapeutics, Division of Janssen Products, LP|Janssen|59676|1755||
+2617|Zyg Pharma Pvt ltd|Zyg Pharma|00000|1666||
+241|Colgate Oral Pharmaceuticals Inc|Colgate|00126|1666||
+1344|Romark Laboritories|Romark |67546|1666||
+1727|Bayer Diagnostics|Bayer |00193|182||
+845|DRX Pharmaceutical Consultants Inc|DRX|55045|1666||
+2386|Dr. Reddy's Laboratories|Dr. Reddy|43598|851||
+2432|Exelan Pharmaceuticals, Inc.|Exelan |76282|1666||
+2619|OHM Laboratories Inc|OHM Labs|51660|1148||
+324|Hospira Worldwide Inc.|Hospira|00409|1666||
+2370|Wilshire Pharmaceuticals, Inc|Wilshire|52536|1885||
+2620|Pillar5 Pharma Inc|Pillar5|00000|1666||
+2621|ABL Medical, LLC|ABL|31060|1666||
+250|Stiefel Laboratories Inc a GSK Company|Stiefel|00145|43||
+1709|Amneal Pharmaceuticals LLC|Amneal|65162|1666||
+1925|Torrent Pharma, Inc|Torrent |13668|1666||
+2020|Amneal Pharmaceuticals|Amneal |53746|1709||
+157|Eli Lilly and Co|Eli Lilly|00002|1666||
+391|Dista Products Co Div Eli Lilly and Co|Dista|00777|157||
+867|Ferring Pharmaceuticals Inc|Ferring |55566|1666||
+941|Novartis Ophthalmics Inc|Novartis |58768|224||
+1095|Orphan Medical Inc a Subsidiary of Jazz Pharmaceuticals|Orphan Med|62161|1708||
+1782|Abbott Diabetes Care, Inc|Abbott |99073|219||
+1930|Camber Pharmaceuticals Inc|Camber|31722|1666||
+2007|Ferring Pharmaceuticals Inc|Ferring|55566|867||
+2018|Novartis Vaccines and Diagnostics, Inc.|Novartis |66521|224||
+2192|Novartis Vaccines and Diagnostics, Inc.|Novartis|63851|2018||
+2300|Solco Healthcare US LLC|Solco|43547|1666||
+164|Merck Sharp & Dohme Corp., a Subsidiary of Merck & Co., Inc.|Merck S&D|00006|2222||
+182|Bayer Pharmaceuticals Corporation|Bayer|00026|1666||
+1024|Apotex Corp|Apotex|60505|1666||
+1151|Daiichi Sankyo Inc|Daiichi |63395|1261||
+1261|Daiichi Sankyo Inc |Daiichi |65597|1666||
+1301|Merck Sharp & Dohme Corp., a Subsidiary of Merck & Co., Inc.|Merck S&D|66582|2222||
+1714|Sandoz Inc|Sandoz |66685|392||
+1735|Sandoz Inc|Sandoz |00185|392||
+1816|Merck Sharp & Dohme Corp., a Subsidiary of Merck & Co., Inc.|Merck S&D|00085|1301||
+1824|Sandoz Inc.|Sandoz|64814|392||
+2006|Sandoz, Inc.|Sandoz|00781|392||
+2099|Sandoz, Inc.|Sandoz|54643|392||
+2244|Sandoz Inc,|Sandoz|66758|392||
+2624|Abbott Diabetes Care, Inc|ADC|93815|1782||
+2625|Abbott Diabetes Care, Inc|ADC|57599|1782||
+2626|TROPHIKOS|TROPHIKOS|00000|1804||
+1701|Onset Therapeutics|Onset|16781|2441||
+2190|Allos Therapeutics a wholly-owned subsidiary of Spectrum Pharmaceuticals |Allos |48818|2034||
+2299|Metacon Labs|Metacon|49808|1666||
+2372|West-Ward Pharmaceutical Corp|West-Ward|00143|248||
+2528|West-Ward Pharmaceutical Corp|West-Ward|00143|248||
+688|McNeil Consumer Healthcare Division of McNEIL-PPC, Inc.|McNeil |00501|1680||
+962|Ortho McNeil Pharmaceutical Inc Drug Delivery Div|Ortho|59136|1755||
+1399|RA McNeil Co|RAMcNeil|12830|1666||
+1648|Triax Pharmaceuticals, LLC|Triax|14290|2441||
+1680|McNeil Consumer Healthcare Division of McNEIL-PPC, Inc.|McNeil|00045|1755||
+1890|UCB, Inc.|UCB|00091|680||
+1929|Triax Pharma|Triax|14290|2441||
+2440|AmerisourceBergen Corporation|ABC|87701|1666||
+673|Genentech Inc, a member of the Roche Group|Genetech|50242|161||
+755|General Injectables and Vaccines Inc|Genrl Inj|52584|1666||
+983|Celgene Corp|Celgene|59572|1666||
+2061|ProStrakan Inc.|ProStrakan|42747|1666||
+2138|Fora Care Inc.|Fora Care |98939|1666||
+2155|Aurolife Pharma, LLC an Aurobindo Company|Aurolife|13107|1536||
+2628|Nipro Diagnostics|Nipro|21292|1783||
+43|GlaxoSmithKline Pharmaceuticals|GSK|00007|1666||
+174|Bristol Myers Squibb Oncology Products|BMS |00015|158||
+208|Bristol Myers Squibb Pharma Co|BMS|00056|158||
+229|Bristol Myers Squibb Co|BMS|00087|158||
+260|GlaxoSmithKline Group of Companies|GSK|00173|43||
+350|American Regent Inc, a division of Luitpold Pharmaceuticals|Am Regent|00517|455||
+732|Breckenridge Inc|Breknridge|51991|1666||
+1163|Bristol Myers Squibb Sanofi Pharmaceuticals Partnership|BMS-Sanofi|63653|158||
+1667|Ipsen Biopharmaceuticals, Inc. formerly Tercica Inc, a subsidiary of Ipsen Group|Tercica|15054|1940||
+1776|Bristol Myers Squibb and Gilead Sciences|BMS-Gilead|15584|1666||
+1803|GlaxoSmithKline Group of Companies|GSK|19515|43||
+1940|Ipsen Pharma Biotech|Ipsen |66108|1666||
+2011|GlaxoSmithKline Group of Companies and Adolor Corporation Partnership |GSK Adolor|11227|43||
+2043|Ipsen Pharmaceuticals, Inc.|Ipsen |55688|1940||
+2197|Ipsen Biopharmaceuticals, Inc. formerlyTercica Inc, a subsidiary of Ipsen Group |Ipsen|15054|2043||
+2265|Physician Therapeutics Inc, LLC|Physician |68405|1666||
+2456|21st Century HealthCare, Inc|Century|40985|1666||
+2632|MacLeods Pharma|MacLeods|33342|1666||
+2634|BioPharm, Inc.|BioPharm|00000|1666||
+1484|Global Pharmaceuticals |Global |00115|1805||
+2633|Pharmasol Corporation |Pharmasol|00000|1666||
+2636|Prism Phamaceuticals, a wholly owned subsidiary of Baxter Healthcare Corporation|Prism|43066|306||
+2637|ACON Laboratories, Inc.|ACON|82607|1666||
+2127|Legacy Pharmaceutical Packaging, LLC|Legacy|68645|2183||
+2183|Legacy Packaging|Legacy|68645|1666||
+2638|SimplyThick LLC|Simply|20513|1666||
+1784|Anesta Corp.|Anesta |00000|1153||
+2379|Abbott Medical Optics, Inc., formerly Advanced Medical Optics|AMO|29943|219||
+2436|Richmond Division of Wyeth, A subsidiary of Pfizer Inc|Wyeth HC|00031|163||
+1693|Anabolic Laboratories Inc|Anabolic|00772|1666||
+1702|Alliance Medical Products|Alliance |66872|1666||
+377|Pfizer Pharmaceuticals Inc|Pfizer|00663|202||
+2398|Wyeth Consumer|Wyeth|00005|163||
+1327|Pfizer Pharmaceuticals Ltd|Pfizer|67158|202||
+2344|Todays Health, Inc|Today|43072|1666||
+2364|Trovis Pharmaceuticals LLC|Trovis |00000|1666||
+2602|AvKARE, Inc.|AvKARE|42291|1666||
+1901|Northstar Rx LLC|Northstar|68820|1666||
+1959|Northstar Rx LLC|Northstar |16714|1901||
+1854|Cadista Pharmaceuticals Inc. Fmrly Jubilant Pharmaceuticals|Cadista|59746|997||
+998|Greenstone Ltd|Greenstone|59762|202||
+2226|Smith Drug Company|Smith |00000|1666||
+1536|Aurobindo Pharma USA Inc.|Aurobindo|65862|1666||
+815|Geritrex Corporation|Geritrex|54162|1666||
+2521|Sagent Pharmaceuticals|Sagent |25021|1666||
+781|Bio-Tech Pharmacal, Inc.|Bio-Tech|53191|1666||
+2639|Bio-Tech Pharmacal, Inc.|Bio-Tech|05105|781||
+238|Goodsense a Division of Perrigo|Goodsense|00113|1715||
+295|Denison Pharmaceuticals Inc|Denison|00295|1666||
+2459|Navarro Pharmacy|Navarro|00000|1666||
+441|Del Pharmaceuticals|Del |10310|1666||
+1779|Lupin Brand Pharma|Lupin |68180|1365||
+923|Deliz Pharmaceutical Corp|Deliz |58238|1666||
+1767|Price Chopper|Price Chop|00000|1666||
+1859|Lupin Pharmaceuticals, Inc. Brand Division|Lupin|27437|1365||
+2369|Publix Super Markets, Inc|Publix|41415|1666||
+1365|Lupin Pharmaceuticals|Lupin |68180|1666||
+1047|Dental Resources Inc|Dental Res|61048|1666||
+1|Geneva Pharmaceuticals Inc|Geneva||392||
+10|Monticello Drug Co.|Monticello|11868|1666||
+27|Pharmatron Natural Health Products|Pharmatron|79319|1666||
+39|Aventis Pharmaceuticals|Aventis|00585|180||
+53|Leiner Health Products|Leiner |00000|1376||
+69|Repligen Corporation|Repligen|67066|1666||
+154|Advancis Pharmaceutical Corp.|Advancis|11042|1895||
+159|Mead Johnson |Mead Johns|00003|1666||
+161|Roche Pharmaceuticals|Roche|00004|1666||
+162|Lederle Pharmaceutical Div American Cyanamid Co|Lederle|00005|163||
+189|Purdue Frederick Co|Purdue|00034|1666||
+192|MedPointe Pharmaceuticals|MedPointe|00037|1931||
+193|Sanofi-Aventis US LLC|Sanofi-A|00039|222||
+194|Oral B Laboratories|Oral B|00041|1666||
+196|Knoll Laboratories Div Knoll Pharmaceutical Co|Knoll |00044|219||
+201|Knoll Pharmaceutical Co Sub BASF Corp|Knoll |00048|219||
+213|Dermik Laboratories a division of Valeant|Dermik|00066|267||
+215|Merrell Pharmaceuticals Inc|Merrell|00068|222||
+223|Star Pharmaceuticals Inc|Star |00076|1703||
+231|3M Pharmaceuticals Inc|3M Pharm|00089|1666||
+232|Schwarz Pharma LLC a Division of UCB, Inc.|Schwarz|00091|1890||
+235|Person and Covey Inc|PersonCovy|00096|1666||
+237|GlaxoSmithKline Group of Companies|GSK|00108|43||
+243|Schwarz Pharma Manufacturing Inc|Schwarz|00131|232||
+246|CFH Laboratories LP|CFH |00136|1666||
+258|Ivax Pharmaceuticals Inc a Division of Teva USA|IVAX|00172|233||
+261|Mission Pharmacal Co|Mission |00178|1666||
+273|Dunhall Pharmaceuticals Inc|Dunhall|00217|1666||
+276|BF Ascher and Co Inc|BF Ascher|00225|1666||
+282|Fleming and Co|Fleming|00256|294||
+286|Center Laboratories Inc|Center |00268|1666||
+287|Bracco Diagnostics Inc|Bracco|00270|158||
+288|Young Dental Manufacturing I Llc|Young Dent|00273|1666||
+298|TAP Pharmaceuticals Inc|TAP|00300|1216||
+305|Guardian Laboratories Div United Guardian Inc|Guardian|00327|1666||
+309|Schein Pharmaceutical Inc|Schein|00364|752||
+310|Scot Tussin Pharmacal Co Inc|ScotTussin|00372|1666||
+319|Compumed Inc|Compumed|00403|1666||
+328|Fielding Pharmaceutical Co|Fielding |00421|1666||
+356|International Medication Systems, Ltd a Division Amphastar Pharmaceuticals Inc|IMS|00548|1872||
+357|Seatrace Pharmaceuticals Inc|Seatrace|00551|1666||
+361|Ortho Clinical Diagnostics Inc|Ortho|00562|1755||
+362|Whitehall-Robins|WhitehallR|00573|163||
+365|Baker Norton Pharmaceuticals Inc|Baker Nort|00575|258||
+381|JMI Daniels Pharmaceuticals Inc Dba Daniels Pharmaceuticals|JMI Daniel|00689|756||
+383|Novation LLC|Novation|00702|1666||
+385|G and W Laboratories Inc|G and W|00713|1666||
+405|Wesley Pharmacal Co Inc|Wesley|00917|1666||
+413|Integra Chemical Company|Integra |05324|1666||
+434|Block Drug Co Inc|Block|10158|245||
+437|Cetylite Industries Inc|Cetylite|10223|1666||
+440|Contract Pharmacal Corp|Contract |10267|1666||
+443|E Z Em Co Inc|E Z Em |10361|287||
+455|Luitpold Pharmaceuticals Inc|Luitpold|10797|1261||
+456|Ortho-Neutrogena Products a Division of OMP|Ortho-Neut|00062|267||
+475|Weeks and Leo|Weeks&Leo|11383|1666||
+478|Young, W.F. Inc|Young|11444|1666||
+479|Combe Inc|Combe|11509|1666||
+484|International Ethical Laboratories Inc|Intl Ethic|11584|1666||
+485|Marpac|Marpac|11651|1666||
+486|WA Butler Co|WA Butler|11695|1666||
+487|Coloplast Inc|Coloplast|11701|1666||
+488|Meridian Medical Technologies Inc|Meridian|11704|1036||
+493|Rx Formulations Corp|Rx Form|11808|1666||
+494|Rite Aid Corp|Rite Aid|11822|1666||
+499|Bristol Myers Squibb Medical Imaging Inc|BMS |11994|158||
+511|A G Marin Pharmaceutical|AG Marin|12539|1666||
+542|Astra Zeneca AB|AZN|17228|266||
+543|Dixon Shane Inc|DixonShane|17236|1234||
+544|Dixon Shane LLC|DixonShane|17236|1234||
+545|Armstrong Pharmaceuticals Inc|Armstrong |17270|356||
+546|Alza Corp|Alza|17314|1755||
+555|Concord Laboratories Inc|Concord|20254|1666||
+562|Lee Pharmaceuticals|Lee |23558|1666||
+587|Leader Brand Products|Leader|37205|745||
+594|Somerset Pharmaceuticals Inc|Somerset|39506|312||
+604|Serono Inc|Serono|44087|1666||
+612|Clay Park Labs Inc a Division of Perrigo Pharmaceuticals|Clay Park|45802|1715||
+614|Stewart-Jackson Pharmacal Inc|SJP|45985|1804||
+624|Mikart Inc|Mikart|46672|1666||
+629|Santen Pharmaceutical Co Ltd|Santen|48254|1666||
+641|Thames Pharmaceuticals Inc a Division of Taro|Thames|49158|723||
+651|Time Cap Laboratories Inc|Time Cap|49483|1666||
+657|Vita-Rx Corporation|Vita-Rx|49727|1666||
+663|Jacobus Pharmaceutical Co|Jacobus|49938|1666||
+664|Zest Anchors Inc|ZestAnchor|49960|1666||
+680|UCB Pharma Inc|UCB Pharma|50474|1666||
+682|Blairex|Blairex|50486|1666||
+686|Charter Laboratories Inc|Charter |50550|1666||
+697|Parnell Pharmaceuticals Inc|Parnell|50930|1666||
+707|Yamanouchi Pharma Technologies Inc|Yamanouchi|51248|1539||
+708|Zila Pharmaceuticals Inc|Zila|51284|1666||
+714|Wilson Ophthalmic Corp|Wilson |51394|1666||
+715|Dover Pharmaceutical|Dover |51469|1666||
+716|Dura Pharmaceuticals Inc|Dura |51479|1119||
+744|Braintree Laboratories Inc|Braintree|52268|1666||
+753|Martec Pharmaceuticals Inc|Martec|52555|1666||
+756|Jones Pharma Inc Sub King Pharmaceuticals Inc|Jones |52604|1036||
+762|American National Red Cross|Red Cross|52769|1666||
+768|Pharma Pac|Pharma Pac|52959|1666||
+771|Pharmedix|Pharmedix|53002|1666||
+772|Medical Ophthalmics|Med Ophth|53012|1666||
+773|Medeva Pharmaceuticals Inc|Medeva|53014|774||
+778|Kramer Laboratories|Kramer|53076|1666||
+782|Able Laboratories Inc|Able Labs|53265|1666||
+787|BV Pharbita|BV|53403|1666||
+795|Delta Pharmaceuticals Inc|Delta |53706|1666||
+796|Long Island Pharmacal|Long Islnd|53714|1666||
+798|Interpharm Inc|Interpharm|53746|2020||
+800|GlaxoSmithKline Inc|GSK|53873|43||
+804|Schering Plough Products Inc|Schering|53922|1301||
+805|Schering Plough Products LLC|Schering|53922|1301||
+812|Roberts Laboratories Inc|Roberts |54092|813||
+817|Huffman Laboratories|Huffman |54252|1666||
+821|R and D Laboratories Inc|R&D Labs|54391|752||
+825|Eagle Vision Inc|Eagle |54574|1666||
+829|Leo Pharmaceutical Products Ltd|Leo |54653|1907||
+836|OMJ Pharmaceuticals Inc|OMJ|54842|1755||
+848|Columbia Laboratories Inc|Columbia |55056|1666||
+855|Cheshire Pharmaceutical Systems|Cheshire |55175|1666||
+857|Dental Technologies Inc|Dental Tec|55346|1666||
+859|Mova Pharmaceuticals Corp|Mova |55370|1331||
+861|Pharmakon Laboratories Inc|Pharmakon|55422|1666||
+865|Oclassen Pharmaceuticals Inc a Division of Watson Labs|Oclassen|55515|752||
+874|Novopharm USA Inc|Novopharm|55953|233||
+877|Stiefel Laboratories Ltd|Stiefel|56083|250||
+889|Apothecary Products|Apothecary|57394|1666||
+900|Enzon Pharmaceuticals Inc|Enzon|57665|1666||
+902|Storz Ophthalmics Inc Sub American Cyanamid Co|Storz |57706|162||
+904|Direct Dispensing Inc|Direct Dis|57866|1666||
+909|Southwood Pharmaceuticals Inc|Southwood |58016|1666||
+910|Young Colorado Llc|Young CO|58023|1666||
+913|MGI Pharma Inc a Division of Eisai Inc|MGI|58063|1833||
+917|Ratiopharm Inc|Ratiopharm|58165|233||
+922|Reid Provident Laboratories Inc|Reid Prov|58233|188||
+925|Medtronic Inc Neurological Div|Medtronic|58281|1830||
+929|Immunex Corp|Immunex|58406|864||
+933|Eastman Kodak Co Dental Products|Kodak|58472|1666||
+935|MCR American Pharmaceuticals Inc|MCR|58605|2038||
+938|American Generics Inc|Am Generic|58634|1666||
+946|Dartmouth Pharmaceuticals Inc|Dartmouth |58869|1666||
+957|Kiel Laboratories Inc|Kiel|59063|1666||
+961|Hikma Pharmaceuticals|Hikma|59115|1666||
+965|WE Pharmaceuticals Inc|WE Pharma|59196|1666||
+967|Sage Pharmaceuticals Inc|Sage|59243|1666||
+971|Glades Pharmaceuticals, LLC|Glades|59366|1922||
+973|Altaire Pharmaceuticals Inc|Altaire |59390|1666||
+975|New River Pharmaceuticals Inc|New River |59417|813||
+977|Roberts Pharmaceutical Corporation|Roberts |59441|813||
+979|DNA Pharmaceuticals|DNA |59453|1666||
+984|West Point Pharma|West Point|59591|2222||
+989|Pharmacia AB|Pharmacia|59632|169||
+993|Atley Pharmaceuticals Inc|Atley|59702|1666||
+996|Alphagen Laboratories Inc|Alphagen|59743|1666||
+1000|Apothecon Inc Div Bristol Myers Squibb|Apothecon|59772|158||
+1003|Pecos Pharmaceutical Inc|Pecos|59879|1666||
+1005|International Processing Corp|Intl Pross|59885|1666||
+1007|Warrick Pharmaceuticals Corp|Warrick|59930|1301||
+1010|Neil Laboratories Inc|Neil Labs|60242|1666||
+1012|Hope Pharmaceuticals|Hope |60267|1666||
+1014|Minrad Inc|Minrad|60307|1666||
+1016|Bristol Myers Squibb Pharmaceutical Ltd|BMS|60421|158||
+1017|Golden State Medical Supply Inc|GSMS|60429|1666||
+1018|Morton Grove Pharmaceuticals Inc|Morton Gro|60432|1463||
+1026|Cell Therapeutics, Inc|CTI|60553|1666||
+1029|Respa Pharmaceuticals Inc|Respa|60575|1666||
+1030|Kos Pharmaceuticals Inc|Kos |60598|219||
+1034|St Marys Medical Park Pharmacy|St Marys|60760|1666||
+1035|Stason Pharmaceuticals Inc|Stason |60763|1666||
+1039|Sight Pharmaceuticals Inc|Sight|60855|1666||
+1043|Faro Pharmaceuticals Inc|Faro |60976|1254||
+1048|STC Pharmaceuticals Inc|STC Pharm|61056|1666||
+1053|Optimum Pharmacueticals Inc|Optimum |61298|1666||
+1058|Guilford Pharmaceuticals Inc |Guilford |61379|1833||
+1059|Ultras Pharmaceuticals Inc|Ultras|61406|1666||
+1065|Cytosol Ophthalmics Inc|Cytosol |61534|1666||
+1076|Liposome Co Inc|Liposome|61799|900||
+1077|Imiren Pharmaceuticals Inc|Imiren|61808|1666||
+1083|Andrx Laboratories Inc|Andrx |62022|752||
+1088|Sangstat Medical Corp|Sangstat|62053|932||
+1090|Ciba Vision|Ciba Visn|62101|224||
+1091|Boudreaux|Boudreaux|62103|682||
+1096|Prometic Pharma Inc|Prometic|62174|1666||
+1099|Ophthalmic Consultants Inc|Ophthal Co|62245|1666||
+1100|Geneva Pharmaceuticals Inc Apothecon|Geneva|62269|392||
+1102|Bio Technology General Ltd|Bio Tech|62288|1666||
+1104|Torpharm Inc|Torpharm|62318|1024||
+1107|Bioglan Pharma Inc Sub Bradley Pharmaceuticals Inc division of Nycomed US Inc.|Bioglan|62436|1975||
+1113|Vivus Inc|Vivus|62541|1666||
+1123|Hikma Farmaceutica|Hikma|62778|961||
+1124|Medpharm Inc|Medpharm|62780|1666||
+1125|EMS Dispensers Ltd|EMS|62792|1666||
+1126|Bertek Pharmaceuticals Inc|Bertek|62794|312||
+1128|Monument Pharmaceutical Co Inc|Monument |62927|1666||
+1130|Steripak Ltd|Steripak|62947|1666||
+1134|Agouron Pharmaceuticals Inc|Agouron|63010|202||
+1137|Connetics Corporation a division of Stiefel Laboratories a GSK Company|Connetics|63032|1917||
+1138|Nnodum Pharmaceuticals|Nnodum |63044|1666||
+1144|Bryan Corporation|Bryan|63256|1666||
+1146|Patheon Inc Toronto Region Operations|Patheon|63285|1681||
+1150|Welpharm Inc|Welpharm|63375|1666||
+1154|Octofoil Group Inc|Octofoil|63467|1666||
+1158|Standard Chem and Pharm Co Ltd|Stand Chem|63537|1666||
+1165|HPSRX Enterprises Inc|HPSRX|63704|1666||
+1169|Novex Pharma|Novex |63775|1024||
+1170|Massco Div Dunagin and Co|Massco|63783|1666||
+1172|Adams Respiratory Therapeutics|Adams RT|63824|2053||
+1176|Gynetics Inc|Gynetics|63955|1666||
+1178|Cebert Pharmaceuticals Inc|Cebert|64019|1666||
+1181|Dreir Pharmaceuticals Inc|Dreir |64061|1666||
+1182|Therakosa Johnson and Johnson Co|Therakosa|64067|1755||
+1188|Bio Products Laboratory|BioProduct|64208|1666||
+1191|Women First Healthcare Inc|WomenFirst|64248|1666||
+1193|Methapharm Inc|Methapharm|64281|1666||
+1196|Ligand Pharmaceuticals Inc|Ligand|64365|1127||
+1203|DJ Pharma, Inc|DJ Pharma|64455|716||
+1204|Capellon Pharmaceuticals Inc|Capellon|64543|1666||
+1209|MGP Apothecon|MGP|64681|1666||
+1210|CollaGenex Pharmaceuticals a Division of Galderma |CollaGenex|64682|296||
+1212|Western Research Laboratories|WRL|95094|1666||
+1218|Oxford Pharmaceutical Services Inc|Oxford|64803|1666||
+1219|Womens Capital Corp|Womens Cap|64836|1666||
+1221|Dexcel Ltd|Dexcel|64861|1666||
+1222|Danco Laboratories Inc|Danco |64875|1666||
+1224|Bone Care International Inc|Bone Care|64894|932||
+1225|Zoetica Pharmaceutical Corp|Zoetica|64909|1666||
+1227|Lehigh Valley Technologies Inc|Lehigh |64950|1666||
+1232|Santen Inc|Santen|65086|1666||
+1234|Akyma Pharmaceuticals|Akyma |65162|1666||
+1235|Lloyd Pharmaceutical|Lloyd |65163|1666||
+1239|Vatring Pharmaceuticals Inc|Vatring|65199|1666||
+1242|Amarin Pharmaceuticals Inc|Amarin |65234|267||
+1244|Skyepharma Inc|Skeypharma|65250|1666||
+1249|Martec Scientific Inc|Martec|65413|753||
+1260|Propst Pharmaceuticals LLC|Propst|65581|371||
+1265|Drugabuse Sciences Inc|Drugabuse|65694|1666||
+1266|Reliant Pharmaceuticals LLC a GlaxoSmithKline Group of Companies |GSK|65726|43||
+1268|Scios Inc|Scios|65847|1755||
+1269|Sirius Laboratories, Inc. a wholly-owned subsidiary of DUSA Pharmaceuticals Inc.|Sirius|65880|29||
+1275|PBM Pharmaceuticals Inc|PBM |66213|1666||
+1280|NuCare Pharmaceuticals Inc|NuCare |66267|1666||
+1283|DENTSPLY Pharmaceuticals|Dentsply|66312|1666||
+1284|PediaMed Pharmaceuticals, Inc|PediaMed|66346|1292||
+1285|Presutti Laboratories, Inc.|Presutti |66378|1666||
+1288|Aero Pharmaceuticals Inc|Aero |66440|1666||
+1292|Xanodyne Pharmaceuticals, Inc|Xanodyne|66479|1666||
+1293|OSG Norwich Pharmaceuticals Inc|OSG Norwch|66484|1577||
+1296|Rekah Pharmaceutical Industry Ltd|Rekah|66509|1666||
+1299|Hospak|Hospak|66553|1666||
+1302|AAI Pharma Inc|AAI Pharma|66591|1292||
+1303|Pro Pharma LLC|Pro Pharma|66594|1666||
+1305|Pharmelle LLC|Pharmelle|66663|1753||
+1306|Lek Pharmaceuticals Inc|Lek |66685|392||
+1308|Nutra Med Inc|Nutra Med|66708|1666||
+1309|ImClone Systems Incorporated|ImClone|66733|1666||
+1310|Deltex Pharmaceuticals Inc|Deltex|66739|1666||
+1312|Rx Holdings LLC|Rx Holding|66794|1666||
+1313|Athlon Pharmaceuticals Inc|Athlon|66813|1666||
+1314|Cura Pharmaceutical Co Inc|Cura |66860|1666||
+1315|Proethic Pharmaceuticals Inc|Proethic|66869|2054||
+1316|AMBI Pharmaceuticals, Inc. a division of MCR American|AMBI|66870|935||
+1321|MPM Medical Inc|MPM Med|66977|1666||
+1322|WraSer Pharmaceuticals|WraSer|66992|1666||
+1326|McGuff Pharmaceuticals, Inc|McGuff|67157|638||
+1328|Colorado Biolabs Inc|Colorado|67181|1666||
+1329|Vindex Pharmaceuticals Inc|Vindex|67204|1666||
+1330|Pharmion LLC a Subsidiary of Celgene Corporation|Pharmion|67211|983||
+1332|ESP Pharma Inc|ESP Pharma|67286|1695||
+1333|Redpharm Drug|Redpharm|67296|1666||
+1336|Teamm Pharmaceuticals Inc|Teamm|67336|1902||
+1339|Access Pharmaceuticals Inc|Access|67404|1666||
+1345|Diatech Diamond Inc|Diatech|67572|1666||
+1347|Southcoast Pharmaceuticals Inc|Southcoast|67685|1666||
+1350|Harvest Pharmaceuticals|Harvest |67754|1666||
+1357|Vision Pharma., LLC.|Vision|68013|1666||
+1359|Rivers Edge Pharmaceuticals|RiversEdge|68032|1666||
+1368|Carolina Pharmaceuticals Inc.|Carolina |68249|1534||
+1370|Alamo Pharmaceutical, LLC|Alamo |68322|41||
+1371|Victory Pharma, Inc.|Victory |68453|156||
+1375|Pfizer Consumer Healthcare|Pfizer |00501|202||
+1377|Weider Nutrition International|Weider |74345|1666||
+1388|Camall Co Inc|Camall|00147|1666||
+1397|Key Co|Key|11694|1666||
+1406|Du More Inc|Du More|50939|1666||
+1410|Alra Laboratories Inc|Alra|51641|1666||
+1412|DSC Laboratories Div DSC Products Inc|DSC|52316|1666||
+1415|Genderm Corp|Genderm|52761|1666||
+1419|EC Moore Co Inc|EC Moore|54388|1666||
+1423|Effcon Laboratories Inc|Effcon|55806|1666||
+1429|Gil Pharmaceutical Corp|Gil|58552|1666||
+1435|Copley Pharmaceutical Inc|Copley|38245|233||
+1436|Dofs Laboratories|Dofs|10340|1666||
+1438|KV Pharmaceutical Co|KV |10609|1666||
+1441|MJ Pharmaceuticals Ltd|MJ Pharm|55478|723||
+1443|Propharma Inc|Propharma|50313|1666||
+1449|SCS Pharmaceuticals|SCS|00905|1666||
+1452|BTG Pharmaceuticals Corp Sub Biotechnology General Corp|BTG|54396|1748||
+1454|Consolidated Pharmaceutical Group Inc|Consolidat|61423|1666||
+1455|Dermatech|Dermatech|61528|1666||
+1456|Oread Inc|Oread|63015|1666||
+1459|Dentsply Caulk|Dentsply|10216|1666||
+1460|Domel Laboratories Inc|Domel|53809|1666||
+1464|DPT Laboratories Ltd|DPT|63094|1666||
+1465|Lark Pharmaceuticals Inc|Lark|58173|1666||
+1471|Ethicon Inc|Ethicon|63713|1755||
+1474|Novis Pr Inc Dba Kramer Novis|Kramer|52083|1666||
+1477|Medeva Pharma Ltd|Medeva|19650|774||
+1479|Ceph International Corp|Ceph|64860|1666||
+1487|Lex Pharmaceutical Inc|Lex|49523|1666||
+1490|Bioniche Life Sciences Inc|Bioniche|62086|312||
+1494|Verum Pharmaceuticals Inc|Verum|67000|1371||
+1497|Sabex 2002 Inc|Sabex |54643|1666||
+1501|Raway Pharmacal Inc|Raway|00686|1666||
+1509|Dr. Rose Inc|Dr Rose |42037|1666||
+1523|Life Cycle Ventures|Life Cycle|65939|43||
+1525|Leitner Pharmaceuticals|Leitner|10551|1666||
+1526|TriMarc Laboratories|TriMarc|68752|1993||
+1527|Novartis Nutritionals|Novartis |00212|224||
+1530|Eyetech Pharmaceuticals, Inc.|Eyetech|68782|267||
+1540|OSI Pharmaceuticals|OSI|65231|1539||
+1541|Acorda Therapeutics, Inc.|Acorda|10144|1666||
+1550|Janssen Pharmaceuticals, Inc, fomerly, Ortho-McNeil Neurologiscs |Janssen|00045|1755||
+1551|JDS Pharmaceuticals|JDS|68968|896||
+1552|NitroMed, Inc.|NitroMed|12948|1666||
+1558|Auriga Pharmaceuticals Inc|Auriga|14629|1666||
+1562|Verus Pharmaceuticals, Inc|Verus|13436|1666||
+1572|Brighton Pharmaceuticals|Brighton|10914|1371||
+1574|NFI Products|NFI|45611|1666||
+1581|Requa, Inc|Requa|10961|1666||
+1589|C.B. Fleet Company, Inc.|C.B. Fleet|00132|1666||
+1590|Cramer Products Inc|Cramer|11960|1666||
+1598|Beta Dermaceuticals, Inc|Beta Derm|53062|1666||
+1606|Blaine Pharmaceuticals|Blaine|00165|1666||
+1609|Vintage Pharmaceuticals Inc|Vintage|00000|371||
+1612|Cobalt Pharmaceuticals, Inc|Cobalt||1886||
+1616|WF Buckley|WF Buckley|65515|1666||
+1618|Carma Labs, Inc|Carma|83078|1666||
+1629|Advanced Vision Research a Subsidiary of Akorn, Inc.|AVR|58790|1666||
+1630|Niche Pharmaceuticals Inc|Niche|36765|1666||
+1632|Sundown Nutrition|Sundown|30768|57||
+1643|Elge Inc|Elge |58298|1666||
+1647|Critical Therapeutics, Inc|Critical |68734|1534||
+1650|Amerinet|Amerinet|00000|1666||
+1651|Patriot Pharmaceuticals LLC|Patriot|10147|1755||
+1656|StoneBridge Pharma Subsidiary Stiefel Laboratories a GSK Company|StoneBridg|14168|250||
+1661|Chester Valley Pharmaceuticals|Chestr Val|13453|1973||
+1662|Barrier Therapeutics a Division of Stiefel GSK Company|Barrier |13478|250||
+1665|Red River Pharma, LLC|Red River|12593|351||
+1669|Wal-Mart Stores, Inc.|Wal-Mart|49035|1666||
+1671|Wal-Mart Stores, Inc.|Wal-Mart|81131|1669||
+1672|Coria Laboratories, Ltd. a division of Valeant|Coria|13548|267||
+1673|PRX Pharmaceuticals, Inc.|PRX Pharm|16241|661||
+1677|Penn Laboratories, LLC|Penn |13893|43||
+1681|Patheon Pharmaceuticals Inc|Patheon |67651|1666||
+1682|Kali Laboratories Inc|Kali |66893|661||
+1685|Albertson's, Inc|Albertsons|41163|1666||
+1687|Align Pharmaceuticals|Align|08514|1666||
+1695|PDL BioPharma, Inc|PDL|67286|1666||
+1698|CV Therapeutics|CVT|67159|1080||
+1700|Midland Healthcare LLC|Midland|15686|1666||
+1703|Esprit Pharma Inc|Esprit|15456|179||
+1704|Ascend Therapeutics, Inc.|Ascend|17139|1666||
+1705|Vision Pharmaceuticals, Inc.|Vision|54891|1666||
+1706|Oscient Pharmaceuticals Corporation|Oscient|67707|1666||
+1712|UCB Pharma Inc|UCB|53014|680||
+1715|Perrigo Rx|Perrigo|10768|1666||
+1721|Scientific Laboratories Inc|Scientific|66239|1666||
+1722|Cotherix Inc|Cotherix|10148|1277||
+1724|Jerome Stevens Pharmaceuticals Inc|J Stevens|50564|1036||
+1728|Unigen Pharmaceuticals Inc.|Unigen|62305|1666||
+1729|Phoenix Laboratories Inc|Phoenix |00755|1666||
+1737|Diagnostic Devices, Inc|DDI|08484|1666||
+1738|Diagnostic Devices, Inc|DDI|08321|1737||
+1739|Alpharma Branded Products Division Inc|Alpharma |63857|1036||
+1741|Excelsior Medical Corporation|Excelsior |63807|1666||
+1743|MIDLAND PHARMACEUTICALS |Midland|45255|1666||
+1744|Targacept, Inc.|Targacept|17202|1666||
+1746|CIPLA LTD |Cipla|53104|1666||
+1747|Cytogen Corporation|Cytogen |13632|2115||
+1752|A. Aarons A division of Nycomed US|A. Aarons|18754|1975||
+1761|Harbor Pharmaceuticals Inc. |Harbor |68508|1666||
+1766|Alphapharm Party Ltd.|Alphapharm|57315|1666||
+1768|Oncology Therapeutics Network|OTN|67817|1666||
+1772|Allan Pharmaceutical, LLC|Allan |13279|1666||
+1786|FEI PRODUCTS LLC |FEI |50907|358||
+1790|REDDY PHARMACEUTICALS LLC |Reddy|67857|1987||
+1793|Alterna LLC|Alterna |16861|1666||
+1794|Everton Pharmaceuticals|Everton |17287|1795||
+1798|Zylera Pharmaceuticals a Division of TRx Pharma LLC|Zylera |23594|1795||
+1804|SJ Pharmaceuticals|SJ|24839|1666||
+1805|Impax Laboratories, Inc. |Impax|00000|1666||
+1810|Dabur Pharma US, Inc|Dabur |10518|1666||
+1814|Seragen, Incorporated|Seragen|00000|1666||
+1820|Graceway Pharmaceuticals, LLC Formerly Chester Valley|Graceway|13453|1973||
+1823|Praecis Pharmaceuticals Incorporated|Praecis|68158|1666||
+1832|Auriga Laboratories|Auriga |08546|1558||
+1833|MGI Pharma a Division of Eisai Inc|MGI Pharma|61379|1127||
+1841|Nova Biomedical, Inc.|Nova Bio|08548|1666||
+1845|EKR Therapeutics|EKR |24477|1534||
+1847|Centrix Pharmaceutical Inc|Centrix|11528|1666||
+1855|Synerx Pharma, LLC|Synerx|00000|1666||
+1879|Ocusoft, Inc|Ocusoft|54799|1666||
+1887|Amerifit Pharma, Inc.|Amerifit |61451|1666||
+1895|MiddleBrook Pharmaceuticals, Inc|MidleBrook|11042|1666||
+1896|ReliOn |ReliOn|59060|1669||
+1898|Validus Pharmaceuticals, Inc.|Validus|30698|1666||
+1899|Fleming Pharmaceuticals|Fleming|00256|282||
+1902|Accentia Pharmaceuticals, Inc.|Accentia|67336|1666||
+1903|PharmaForce, Inc.|PharmaForc|40042|455||
+1905|Medicure Pharma|Medicure|25208|1666||
+1913|Medical Plastic Device Inc.|MPD|08271|1666||
+1914|MPD Inc.|MPD Inc.|08271|1913||
+1922|Glades Pharmaceuticals, LLC|Glades|63218|250||
+1923|Cephazone Pharma, LLC|Cephazone|68330|1666||
+1936|Graceway Pharmaceuticals, LLC|Graceway|13453|1973||
+1938|e5 Pharma, LLC|e5 Pharma|13517|1199||
+1946|GeneraMedix Pharmaceuticals Inc.|GeneraMedi|10139|1666||
+1957|Pacira Pharms Inc|Pacira |65250|1666||
+1966|Dexo Pharma LLC|Dexo |59196|1666||
+1967|ZymoGenetics, Inc. |ZymoGen|28400|158||
+1969|BrookstonePharma, Inc|Brookstone|42192|2200||
+1970|Canopy Roads Pharmaceuticals|CRP|42026|1666||
+1973|Graceway Pharmaceuticals LLC|Graceway |29336|1386||
+1982|Regeneron Pharmaceuticals Inc.|Regeneron|61755|1666||
+1985|ACS Dobfar|ACS Dobfar|00000|1666||
+1988|ATS Pharmaceuticals, a division of Auriga Laboratories, Inc.|ATS|14629|1558||
+1995|NucareRX|Nucare|68071|1666||
+1998|Select Brand|SB|15127|1666||
+2004|Stesso Pharmaceuticals LLC a subsidiary of Auriga Laboratories|Stesso |33753|1558||
+2012|Advanced Bio-Technologies, Inc.|ABT|92734|1666||
+2014|BayPharma, Inc.|BayPharma|42769|1689||
+2015|Fontus Pharmaceuticals, Inc|Fontus|42559|1666||
+2021|Magna Pharmaceuticals, Inc.|Magna |58407|1538||
+2022|Patriot Pharmaceuticals|Patriot|50458|1651||
+2025|GTx, Inc. |GTx, Inc. |11399|1666||
+2028|Akorn-Strides LLC|Akorn-Stri|23360|1666||
+2031|Burel Pharmaceuticals|Burel |35573|1666||
+2035|LifeScan, Inc.|LifeScan|53885|1725||
+2037|DaySpring Pharma a division of MCR American|DaySpring |42819|935||
+2039|Apace Packaging LLC|Apace |15338|1666||
+2044|Mission Pharmacal|Mission|00178|261||
+2048|VPS Corp|VPS|00000|1666||
+2050|Sirion Therapeutics|Sirion|42826|1666||
+2051|Nephro-Tech, Inc.|Nephro-Tec|59528|981||
+2056|Dabur Pharma US, Inc|Dabur|10518|1810||
+2086|PD-RX Pharmaceuticals Incorporated|PD-RX|43063|1993||
+2104|Avidas Pharmaceuticals LLC|Avidas|43684|1666||
+2123|Angelini Labopharm LLC|Angelini|43595|1666||
+2125|Zars Pharma, Inc.|Zars |43469|1666||
+2130|Coria Laboratories, Ltd. a division of Valeant|Coria|08569|267||
+2134|UCB Pharma Inc|UCB |00131|680||
+2139|Promius Pharma|Promius Ph|67857|1987||
+2140|Epic Pharma, LLC|Epic|42806|1666||
+2143|SDA Laboratories, Inc.|SDA|66424|1666||
+2161|codaDOSE Incorporated|codaDOSE|43378|957||
+2165|Academic Pharmaceuticals, Inc.|Academic|42919|1666||
+2174|Diagnostic Devices, Inc|DDI|08484|1737||
+2178|DexCom, Inc.|DexCom|08627|1666||
+2179|Capital Pharmaceutical, LLC|Capital |29978|1666||
+2181|Aletheia LLC|Aletheia|43234|1666||
+2186|CarWin Associate, Inc.|CarWin |15370|1883||
+2202|H-E-B|H-E-B|41220|1666||
+2205|Kendall Company a division of Covidien|Kendall |08080|421||
+2209|Novartis Vaccines and Diagnostics, Inc.|Novartis |46028|2018||
+2210|Rhodes Pharmaceuticals LP|Rhodes |42858|1666||
+2214|Zogenix Inc.|Zogenix|43376|1666||
+2218|Pedinol Pharmacal Inc.|Pedinol |00884|403||
+2227|Prometheus Laboratories, Inc|Prometheus|65483|1254||
+2230|Gloucester Pharmaceuticals - a subsidiary of Celgene Corp|Gloucester|46026|983||
+2232|Pedinol Pharmacal Inc.|Pedinol |00884|403||
+2239|Galderma Laboratories, LP|Galderma|00299|296||
+2240|NeurogesX, Inc|NeurogesX|49685|1666||
+2243|Dyax Corp.|Dyax|47783|1666||
+2260|Winchester Laboratories|Winchester|64938|1666||
+2266|Kylemore Pharmaceuticals|Kylemore |49769|1359||
+2275|UltraTab Laboratories, Inc|UltraTab |62959|1666||
+2301|Water-Jel Technologies|Water-Jel|59898|1666||
+2305|Kylemore Pharmaceuticals Brand Division|Kylemore|49769|2266||
+2310|Canyon Pharmaceuticals|Canyon|51292|1666||
+2316|BTG International Inc|BTG|50633|1666||
+2317|Protherics Inc|Protherics|00000|2316||
+2320|New American Therapeutics Inc|NATX|50816|2441||
+2331|Nova Biomedical|Nova |08548|1841||
+2335|Orphan Europe SARL|Orphan|52276|1666||
+2338|Shore Therapeutics|Shore |52725|1666||
+2340|Nesher Pharmaceuticals, Inc|Nesher|51477|1674||
+2347|PediatRx, Inc|PediatRx|52547|1666||
+2357|The Kroger Co.|Kroger|41260|1666||
+2378|Tiber Laboratories|Tiber|23589|1835||
+2401|Anbex Inc|Anbex |51803|1666||
+2416|PharmaCaribe, LLC|Pharma|50190|1666||
+2425|Archimedes Pharma US Inc|Archimedes|51772|1666||
+2426|Invacare Supply Group|Invacare|00000|1666||
+2447|Adolor Corporation|Adolor|11227|1355||
+2449|AkPharma Inc.|AkPharma |41383|1666||
+2464|WH Nutritionals, LLC |WH Nutri|76331|1666||
+2467|EKR|EKR|65250|1845||
+2468|Dermalogix Partners. Inc.|Dermalogix|63340|1666||
+2477|Harris Pharmaceutical Inc|Harris|67405|1980||
+2487|Medicines Company|Medicines|00000|1666||
+2488|The Kroger Co.|Kroger|41260|2357||
+2491|Dakota Laboratories LLC|Dakota|54891|1666||
+2505|Xoma US LLC|Xoma|76234|1666||
+2506|Letco Medical|Letco|62991|1666||
+2508|Octapharma USA Inc.|Octapharma|67467|1666||
+2510|California Department of Public Health|California|00000|1666||
+2520|Biocodex USA|Biocodex|04142|1666||
+2527|Cardinal Health|Cardinal|55154|745||
+2538|Discovery Laboratories, Inc|Discovery |68628|1666||
+2543|Mikart Inc|Mikart|46672|1666||
+2547|Vi-Jon Laboratories|Vi-Jon|00869|1666||
+2561|PHYSICIAN RECOMMENDED NUTRICEUTICALS,LLC|PRN|98152|1666||
+2563|Consolidated Midland|Consolidat|00000|1666||
+2566|WellDoc Inc|WellDoc|89129|1666||
+2572|CitiHealth, Inc|CitiHealth|89128|1666||
+2577|Thrifty White Drug|Thrifty Wh|90840|1666||
+2578|i-SENS, Inc.|i-SENS|00000|1666||
+2582|McKesson Packaging|McKesson |63739|646||
+2589|Novast Laboratories, Ltd|Novast|00000|1666||
+2606|Clinigen Healthcare Ltd|Clinigen|76310|1666||
+2607|Talon Therapeutics, Inc.|Talon|20536|1666||
+2609|McKesson Corporation|McKesson|10939|646||
+2640|Target|Target|16730|1844||
+2641|Water-Jel Technologies|Water-Jel|43537|2301||
+2182|HD Smith|HD Smith|00000|1666||
+2062|Deston Therapeutics a Division of TRx Pharma, LLC|Deston |16881|1795||
+1699|Deston Therapeutics a Division of TRx Pharma, LLC|Deston|16881|1795||
+315|Humco Holding Group Inc|Humco|00395|1666||
+1372|Innocutis Holdings LLC formerly JSJ Pharmaceuticals |Innocutis|68712|1666||
+646|McKesson Drug Company|McKesson|49348|1666||
+1726|Roche Diagnostics Corporation|Roche |50924|161||
+2072|Roche Diagnostics Corporation|Roche DC|65702|161||
+2391|Focus Laboratories Inc|Focus |15821|1666||
+2642|GlaxoSmithKline Consumer Healthcare|GSK|00021|245||
+2645|Colgate Oral Pharmaceuticals Inc|Colgate |38341|241||
+2646|McKesson Corporation|McKesson |62011|646||
+1763|Schnuck Markets, Inc|Schnuck's|41318|1666||
+1893|Perrigo Pharmaceuticals Company|Perrigo|45802|1715||
+2135|Nostrum Laboratories, Inc.|Nostrum|29033|1666||
+2283|Nostrum Laboratories, Inc.|Nostrum |29033|2135||
+2596|Eckson Labs, LLC|Eckson|44118|1666||
+2648|Focus Health Group|FHG|24357|1666||
+2650|Calmoseptine Inc. |Calmosepti|46876|1666||
+2651|Calmoseptine Inc. |Calmosepti|00799|1666||
+723|Taro Pharmaceuticals USA Inc|Taro|51672|1666||
+1362|Precision Dose, Inc.|Precision |68094|1666||
+1713|TaroPharma |Taro|51672|723||
+2005|Publix Super Markets, Inc|Publix|56062|1666||
+2128|International Labs, Inc. for Walmart|ILI|54458|2312||
+1644|Aqua Pharmaceuticals|Aqua|16110|1666||
+2311|International Labs, Inc for Kroger |ILI|54458|2312||
+2312|International Labs, Inc|ILI|54458|1666||
+2653|Abbott Diabetes Care, Inc|Abbott|99073|219||
+907|Geri-Care Pharmaceuticals|Geri-Care|57896|1666||
+1663|Banner Pharmacaps Inc|Banner |10888|1666||
+1765|Owen Mumford Inc|Owen Mum|08470|1666||
+1965|Akrimax Pharmaceuticals LLC|Akrimax |24090|1666||
+2153|WG Critical Care, LLC|WG |44567|1666||
+2423|PuraCap Pharmaceutical  LLC|PuraCap |51013|1666||
+2453|Edgemont Pharmaceuticals, LLC.|Edgemont |49909|1666||
+2576|WG Critical Care|WG Critica|44567|1666||
+2655|OptimedRx, LLC.|OptimedRx|52218|1666||
+2418|Eclat Pharmaceuticals  LLC|Eclat|76014|1666||
+364|Paddock Laboratories Inc, a Perrigo Family|Paddock|00574|1715||
+403|Pedinol Pharmacal Inc|Pedinol|00884|267||
+1751|Heritage Pharmaceuticals Inc.|Heritage|23155|1666||
+1796|Aton Pharma, Inc - a Division of Valeant Pharmaceuticals|Aton |25010|267||
+2511|INSYS Therapeutics, Inc.|INSYS|20482|1666||
+240|Pharmaceutical Associates Inc Div Beach Products|PAI|00121|343||
+1080|Gilead Sciences Inc|Gilead|61958|1666||
+2629|Blaine Laboratories, Inc. |Blaine|63347|1666||
+1216|Takeda Pharmaceuticals North America Inc|TPNA|64764|1666||
+2657|Blaine Laboratories, Inc. |Blaine Lab|16728|2629||
+2658|KC Pharmaceuticals, Inc|KC|00000|1666||
+347|Ferndale Laboratories Inc|Ferndale |00496|1666||
+654|Medicine Shoppe|Medicine S|49614|745||
+952|Purdue Pharma LP|Purdue|59011|189||
+1152|Sunovion Pharmaceuticals Inc. formerly Sepracor Inc.|Sunovion|63402|2325||
+1352|Purdue Pharmaceutical Products LP|Purdue|67781|189||
+1821|Kinray|Kinray|00000|1666||
+1822|Duane Reade|Duane Read|00000|883||
+1844|Target Corporation|Target |00000|1666||
+1928|The Great Atlantic & Pacific Tea Co; Inc, (A&P)|A&P|00000|1666||
+2119|DiabeticSupplies.com, Inc.|DiabeticSu|00000|1666||
+2124|Chain Drug Marketing Association|CDMA|35515|1666||
+2328|Discount Drug Mart|DDM|93351|1666||
+2659|Owen Mumford, Inc|OM|61059|1765||
+2660|Medicine Shoppe International|Medicine S|91899|745||
+1228|Rising Pharmaceuticals Inc|Rising|64980|1666||
+1307|Vistapharm Inc|Vistapharm|66689|1666||
+2483|Meijer Pharmacy|Meijer|13733|1666||
+2552|Praelia Pharmaceuticals |Praelia |43288|1666||
+2584|Topco Associates LLC|Topco|36800|1666||
+2662|Perrigo Company|Perrigo Co|70030|1715||
+2663|Rising Pharmaceuticals Inc|Rising|64980|1228||
+1168|McKesson Packaging Inc|McKesson|63739|646||
+2664|Novana Medical LLC|Novana|76077|1666||
+2665|ARIAD Pharmaceuticals, Inc.|ARIAD|76189|1666||
+9|Mentholatum Co., Inc.|Mentho|10742|1666||
+421|Kendall Company|Kendall|08881|1780||
+375|Medi Rx Pharmaceutical Inc|Medi RX|00645|1666||
+2588|Perrigo Diabetes Care for Kroger|Perrigo|08396|1715||
+318|Steris Laboratories Inc|Steris|00402|752||
+359|HR Cenci Laboratories Inc|HR Cenci|00556|1666||
+382|Sultan Chemists Inc|Sultan|00699|1666||
+313|Gebauer Company|Gebauer |00386|1666||
+299|Genetco Inc|Genetco|00302|1666||
+333|Muro Pharmaceutical Inc|Muro |00451|1666||
+316|Milex Products Inc|Milex|00396|1666||
+433|Marlex Pharmaceuticals|Marlex|10135|1666||
+396|Pharmics Inc|Pharmics|00813|1666||
+19|Sunsource International, Inc|Sunsource|47046|1666||
+420|Sherwood Medical Co|Sherwood|08880|421||
+5|Freeda Vitamins, Inc.|Freeda |10432|1666||
+348|North Safety Products|Nth Safety|00498|1666||
+314|Mericon Industries Inc|Mericon|00394|1666||
+128|Country Life|Country Li|15794|1666||
+302|Hyrex Pharmaceuticals|Hyrex|00314|1666||
+380|Marnel Pharmaceuticals Inc|Marnel|00682|1666||
+389|Basic Vitamins|Basic Vit|00761|1666||
+323|GE Healthcare formerly Amersham Health Inc|GE Health |00407|1666||
+57|Rexall Group|Rexall|60814|1666||
+2570|Bionime Corporation|Bionime|83489|1666||
+1674|Zydus Pharmaceuticals (USA) Inc|Zydus |68382|1666||
+1254|Prometheus Laboratories Inc|Prometheus|65483|1604||
+1919|Mylan Specialty L.P.,  formerly Dey, L.P|Mylan|49502|312||
+2259|Sircle Laboratories|Sircle|51021|1666||
+2455|Chain Drug Consortium , LL |CDC|40986|1666||
+2644|Philips Healthcare|Philips|08373|1666||
+2661|Chain Drug Consortium|CDC|68016|1983||
+2666|Sigma-Tau Pharmaceuticals, Inc.|Sigma-Tau|45749|1445||
+2667|National Vitamin Company|NVC|79854|1666||
+2668|BioComp Pharma|BioComp|44523|261||
+1771|Owens & Minor|Own&Minor|08214|1666||
+1853|Owen Mumford Inc|OM|08517|1765||
+2203|Owen Mumford|Owen |08517|1765||
+2234|ViiV Healthcare a GSK and Pfizer Company|ViiV |49702|43||
+2482|Avion Pharmaceuticals  LLC|Avion|75854|2200||
+2670|Cardinal Health|Cardinal|39131|745||
+444|Hyland Dental Inc|Hyland |10390|1666||
+447|Hillestad Pharmaceuticals Inc USA|Hillestad |10542|1666||
+851|Dr. Reddy's Laboratories, Inc.|Dr.Reddy |55111|1666||
+451|Manne Company|Manne|10706|1666||
+1986|Omnis Health|Omnis |94030|1666||
+446|Gordon Laboratories|Gordon|10481|1666||
+1361|American Health Packaging|AHP|68084|1116||
+2604|Amarin Pharma|Amarin|52937|1666||
+296|Galderma Laboratories Inc|Galderma|00299|1604||
+863|Numark Laboratories Inc|Numark |55499|1666||
+2055|Nomax, Inc.|Nomax, Inc|51801|1666||
+2475|Incyte Corporation|Incyte|50881|1666||
+2671|Kent Precision Foods Group, Inc|Kent|72058|1666||
+2672|Acura  Pharmaceuticals, Inc.|Acura |48964|1666||
+2673|INO Therapeutics|INO|64693|1666||
+2674|Freeda Vitamins, Inc.|Freeda |58487|1666||
+2675|Banner Health|Banner|00000|1666||
+2676|Founier Laboratories Ireland Ltd|Founier|00000|1666||
+2677|Unichem Pharmaceuticals |Unichem|29300|1838||
+2678|Numark Laboratories, Inc|Numark Lab|38485|863||
+1167|Heritage Consumer Products|Heritage |63736|1666||
+2339|ApoPharma USA Inc|ApoPharma|52609|1024||
+2534|Austin Pharmaceuticals, LLC|Austin|42792|1666||
+1717|Par Pharm |Par Pharm |49884|661||
+1872|Amphastar Pharmaceuticals, inc|Amphastar |00548|1666||
+2679|Panacea Biotec Ltd|Panacea|00000|1666||
+284|Merz Pharmaceuticals LLC|Merz|00259|1666||
+2680|Sanico N.V.|Sanico|00000|1666||
+1253|Odyssey Pharmaceuticals Inc a Division of Teva USA|Odyssey|65473|669||
+354|Rugby Laboratories a Division of The Harvard Drug Group, LLC |Rugby|00536|2433||
+669|Pliva Inc a Division of Teva USA|Pliva|50111|358||
+2059|Accord Healthcare, Inc.|Accord HC|16729|1876||
+1987|Promius Pharma|Promius |67857|851||
+2215|SigmaPharm Laboratories|SigmaPharm|42794|1666||
+2615|American Screening Corporation|ASC|89137|762||
+2681|AmerisourceBergen Corporation|ABC|46122|1697||
+2682|AmerisourceBergen Corporation|ABC|24385|1697||
+292|Savage Laboratories Inc Div Altana Inc|Savage|00281|1711||
+452|Medical Products Laboratories Inc|Med Prod|10733|1666||
+458|Pascal Co Inc|Pascal|10866|1666||
+459|Lunsco Inc|Lunsco|10892|1666||
+460|Plastodent Inc|Plastodent|10898|1666||
+463|Recsei Laboratories Llc|Recsei|10952|1666||
+482|Sheffield Laboratories Div Faria Limited Llc|Sheffield|11527|1666||
+492|Ion Laboratories Inc|Ion Labs|11808|1666||
+519|Mason Pharmaceuticals Inc|Mason |12758|1666||
+523|Septodont Inc|Septodont|12862|1666||
+551|Himmel Martin Inc|Himmel |17808|1666||
+560|Mucos Emulsion GMBH|Mucos|22358|1666||
+569|Altana Inc|Altana|25463|2687||
+572|Hill Dermaceuticals Inc|Hill Derm|28105|1019||
+585|Inverness Medical Innovations, Inc|Inverness|36652|1666||
+586|Summa Rx Laboratories Inc|Summa Rx|36968|1666||
+589|Emrex Economed Pharmaceuticals Inc|Emrex Econ|38130|1666||
+602|Magno-Humphries Inc|Magno-Hmph|43292|1666||
+609|Med Derm Pharmaceuticals Inc|Med Derm|45565|304||
+615|Heumann Pharma GMBH|Heumann|46014|1666||
+625|Seneca Pharmaceuticals Inc|Seneca|47028|1666||
+628|Medique Products|Medique|47682|1666||
+635|Omnii Oral Pharmaceuticals|Omnii Oral|48878|231||
+638|McGuff Co Inc|McGuff|49072|1666||
+662|Gyn Nutriment Pharmacology|Gyn Nutrim|49910|1666||
+671|Tower Laboratories|Tower|50201|1666||
+678|Heran Pharmaceutical Inc|Heran |50434|1666||
+681|Smith and Nephew Inc Wound Management|Smith&Neph|50484|884||
+684|Optimox Corporation|Optimox|50520|1666||
+702|J. B. Williams Co., Inc|JB Willms|51111|1666||
+713|Topiderm Inc|Topiderm|51326|1666||
+731|Ocumed Inc|Ocumed|51944|1666||
+736|Dayton Pharmaceuticals|Dayton |52041|1666||
+739|Invamed Inc|Invamed|52189|1666||
+745|Cardinal Health|Cardinal|52297|1666||
+747|John O Butler Co|J Butler|52376|997||
+751|Harmony Laboratories Inc|Harmony |52512|1666||
+759|Family Pharmacy|Family Ph|52735|1697||
+767|HJ Harkins Co Inc|HJ Harkins|52959|1666||
+792|United Labs Inc|United Lab|53495|1666||
+801|Sorter|Sorter|53879|1666||
+810|Vitaline Corporation|Vitaline|54022|1666||
+827|National Vitamin Company Inc|Ntl Vit Co|54629|1666||
+831|Interferon Sciences Inc|Interferon|54746|1666||
+837|Llorens Pharmaceutical Corp|Llorens |54859|1666||
+839|Hurst Pharmaceutical|Hurst |54869|1666||
+843|Pharmacists Choice|PharmChoic|54979|1666||
+884|Smith and Nephew Inc Orthopedics|Smith&Neph|08363|1666||
+888|Phoenix Pharmaceuticals Inc|Phoenix|57319|1666||
+891|Nastech Pharmaceutical Co Inc|Nastech|57459|1666||
+893|Medirex Inc|Medirex|57480|1666||
+912|HEYL Chemisch-pharmazeutische Fabrik GmbH|HEYL|58060|1666||
+939|Tandem Oral Care Inc|Tandem|58640|1666||
+940|Mary Anne Oneill Inc|Mary Anne|58705|1666||
+945|Dawn Pharmaceutical|Dawn |58865|1666||
+955|Neogen Corp|Neogen|59051|1666||
+974|Eye Supply USA Inc|Eye Supply|59414|1666||
+986|Global Source Management|Global S|59618|1666||
+992|Primapharm Inc|Primapharm|59690|1666||
+1004|Prodentec Therapeutics Inc|Prodentec|59883|1666||
+1015|Quality Care Pharmaceuticals Inc Dba Qcp Inc|QualtyCare|60346|1666||
+1022|Pharmaceutical Utilization Management Program Va Inc|PUM|60491|1666||
+1055|Sultan Dental Products Ltd|Sultan|61322|1666||
+1064|Germiphene Corp|Germiphene|61508|1666||
+1092|Prime Marketing|Prime Mktg|62107|1666||
+1094|Signal Health Ltd|Signal|62125|1666||
+1108|Pharma Medica|PharmaMedi|62441|1666||
+1109|Rico Pharmacal|Rico|62453|1666||
+1110|Konec Inc|Konec|62515|1666||
+1118|Pharmabul Inc|Pharmabul|62645|1666||
+1120|Iomed Inc|Iomed|62677|1666||
+1189|Carles Inc|Carles|64216|1666||
+1213|Integrity Pharmaceutical Corp|Integrity|64731|1292||
+1246|Spectra Medical Devices Inc|Spectra|65282|1666||
+1248|The Ritedose Corporation |TRC|65302|1666||
+1258|Keraunos Srl|Keraunos|65569|1666||
+1343|Pharm South Inc|PharmSouth|67537|1666||
+1363|PCIC Co Ltd|PCIC|68095|1666||
+1387|Hogil Pharmaceutical Corporation|Hogil|85814|1666||
+1389|Scruggs Pharmacal Co Inc|Scruggs|00329|1666||
+1392|Gilbert Laboratories|Gilbert|00535|334||
+1394|Primedics Laboratories|Primedics|00684|1666||
+1395|Emerson Laboratories|Emerson|00802|1666||
+1411|Norega Laboratories Inc|Norega|51724|1666||
+1413|Med Tek Pharmaceuticals Inc|Med Tek|52349|1666||
+1416|Quality Research Pharmaceutical Inc|Qual Rsch|52765|1666||
+1420|Gonberetica|Gonberetic|54522|1666||
+1421|Econolab Inc|Econolab|55053|1666||
+1424|Macnary Ltd|Macnary|55982|1666||
+1426|Equipharm Inc|Equipharm|57779|1666||
+1428|Teral Laboratories|Teral|51234|1666||
+1430|Rid Inc|Rid|54807|1666||
+1433|Humatech Corp|Humatech|59468|1666||
+1440|LNK International Inc|LNK |50844|1666||
+1444|Regional Service Center Inc|Reg Svc Ct|48433|1666||
+1457|Pharmaceutics International Inc|Pharm Intl|61916|1666||
+1472|Sunstar Pharmaceutical Inc|Sunstar|52921|1666||
+1482|Marlop Pharmaceuticals Inc|Marlop|12939|1666||
+1485|Iopharm Laboratories Inc|Iopharm|61646|1204||
+1496|Cynergy Products Llc|Cynergy|64931|1666||
+1505|Reese Pharmaceutical Company|Reese|10956|1666||
+1511|Syosset Laboratories Company|Syosset|47854|1666||
+1514|Generamed Inc|Generamed|52569|1666||
+1517|PDK Labs Inc|PDK Labs|55966|1666||
+1518|Glasgow Pharmaceutical Corporation|Glasgow|60809|1666||
+1520|Hudson Corporation|Husdon|77273|1666||
+1521|Misemer Pharmaceuticals Inc|Misemer|00276|1666||
+1524|Personal Products|Personal|08137|1666||
+1543|Veracity Pharmaceuticals|Veracity|67887|1199||
+1553|FoodScience of Vermont|FoodScienc|26664|1666||
+1555|Physiologics|Physiolgic|16963|1666||
+1556|Vitaquest|Vitaquest|35046|1666||
+1570|Zicam, LLC|Zicam|32216|1666||
+1579|Atrium Biotechnologies|Atrium|36733|1666||
+1580|Performance Lab|Performanc|80891|1666||
+1596|Stellar Health Products|Stellar|51318|1666||
+1597|Vaso-Active|Vaso-Activ|55223|1666||
+1611|Flanders, Inc|Flanders|54323|1666||
+1668|Genpharm L.P.|Genpharm|15330|312||
+1688|Inpharma Inc|Inpharma|84898|1666||
+1719|Chirhoclin Inc|Chirhoclin|67066|1666||
+1732|Insmed Incorporated|Insmed |16249|1666||
+1745|GenExel-Sein, Inc.|GenExel-Se|08536|1666||
+1839|Nexgen Pharma|Nexgen |00722|1666||
+1843|Nexus Pharmaceuticals Inc.|Nexus|14789|1666||
+1877|ImaRx Therapeutics, Inc|ImaRx |24430|1666||
+1908|Sharps Compliance Corporation|Sharps |08568|1666||
+1932|Micromedics, Inc.|Micromedic|08564|1666||
+1944|A. Aarons, A division of Nycomed US|A. Aarons |18754|1975||
+1975|Bradley Pharmaceuticals division of Nycomed US Inc.|Bradley|00000|2687||
+1994|Tec Laboratories, Inc.|Tec Lab|51879|1666||
+2067|Hall Bioscience Corporation |Hall|44411|957||
+2075|Terumo Medical Corp|Terumo|08970|1666||
+2092|US Medical Instuments|US Medical|08595|1666||
+2101|Lafayette Pharmaceuticals, Inc. a subsidiary of Covidien, Ltd.|Lafayette|59081|1780||
+2112|Technological Investments LLC dba Medi-Fridge|Medi-Fridg|08605|1666||
+2231|GC America, Inc.|GC America|08604|1666||
+2253|HTL Strefa S.A.|HTL Strefa|08489|1666||
+2273|Johnson & Johnson Healthcare Products Division of McNeil-PPC, Inc|J&J|62341|1680||
+2274|Johnson & Johnson Healthcare Products Division of McNeil-PPC, Inc|J&J|30014|2273||
+2278|Ferrer Therapeutics|Ferrer|08509|1666||
+2303|Franklin Pharmaceutical LLC|Franklin|50532|1367||
+2352|Heel USA, Inc|Heel|50114|1666||
+2375|GinJen Distributers, in partnership with pH R and D, LLC|GinJen|50952|1666||
+2397|Kaiser Foundation Hospitals,|Kaiser|00179|1666||
+2685|VAYA Pharma Inc|VAYA |75959|1666||
+2686|Exelixis, Inc.|Exelixis|42388|1666||
+227|Merck Sharp & Dohme Corp., a Subsidiary of Merck & Co., Inc.|Merck S&D|00085|1301||
+987|Biogen Idec Inc|Biogen|59627|1666||
+266|AstraZeneca LP|AZN|00186|1666||
+1155|Endo Pharmaceuticals Inc|Endo|63481|1666||
+2122|Rouses Point Pharmaceuticals, LLC|Rouses PT|43478|1965||
+156|Shionogi USA, Inc.|Shionogi|45809|1666||
+254|Fougera Pharmaceuticals Inc., A Sandoz Company|Fougera|00168|1975||
+265|Eon Labs Inc a Division of Sandoz|Eon |00815|392||
+335|PharmaDerm a Division of Fougera Pharmaceuticals A Sandoz Company|Pharmaderm|00462|2687||
+340|Kenwood Therapeutics A Division of Fougera Pharmaceuticals A Sandoz Company|Kenwood|00482|1975||
+442|Doak Dermatologics A Division of Fougera Pharmaceuticals A Sandoz Company|Doak Derm|10337|1975||
+828|SAB-Pharma -Sandoz Canada|SAB-Pharma|54643|1497||
+1711|Fougera Consumer Products A Sandoz Company|Fougera |00168|2687||
+1950|Kenwood Therapeutics A Division of Fougera Pharmaceuticals A Sandoz Company|Kenwood|00482|1975||
+2117|Fougera Pharmaceuticals Inc., A Sandoz Company|Fougera|00168|2687||
+2180|PharmaDerm a Division of Fougera Pharmaceuticals A Sandoz Company|PharmaDerm|10337|2687||
+2136|CVS Pharmacy, Inc|CVS|50428|1666||
+2688|C.P.M. ContractPharma|C.P.M. |00000|1666||
+2077|IGI Laboratories, Inc|IGI Lab|52565|1666||
+2526|Professional Compounding Centers of America|PCCA|51927|1666||
+2690|Everidis Health Sciences|Everidis|02359|1666||
+2691|Radiance LLC|Radiance |00000|1666||
+495|Mason Vitamins|Mason |11845|1666||
+1545|Depomed Inc|Depomed|13913|1666||
+1548|Vistakon Pharmaceuticals|Vistakon|68669|1755||
+2200|Acella Pharmaceuticals, LLC|Acella |42192|1666||
+2595|Freedom Pharmaceuticals|Freedom|52372|1666||
+2692|Gensco Laboratories, LLC|Gensco|35781|1666||
+2693|Formulated Solutions, LLC|Formulated|00000|1666||
+1338|SkinMedica Inc|SkinMedica|67402|1666||
+2365|Womens Choice Pharmaceuticals|Womens|50967|1666||
+2695|Colgate Oral Pharmaceuticals Inc|Colgate|00126|241||
+279|Upsher-Smith Laboratories Inc|UPS|00245|1666||
+256|Novo Nordisk Inc.|Novo Nordk|00169|1666||
+1943|Doak Dermatologics|Doak|10337|1975||
+2282|LEO Pharma, Inc|Leo |50222|1666||
+2696|Bioventus, LLC|Bioventus|89130|1666||
+2697|Seikagaku Corp|Seikagaku|00000|1666||
+1993|PD-RX Pharmaceuticals|PD-RX|55289|1666||
+2465|AuroMedics Pharma LLC|AuroMedics|55150|1536||
+2698|Supernus Pharmaceuticals, Inc|Supernus |17772|1666||
+2699|Aegerion Pharmaceuticals|Aegerion|76431|1666||
+956|Novo Nordisk Inc.|Novo Nordk|59060|256||
+1783|Nipro Diagnostics; formerly Home Diagnostics, Inc.|Nipro|56151|1666||
+2287|Somaxon Pharmaceuticals, Inc|Somaxon|42847|1241||
+2701|Alexza Pharmaceuticals|Alexza|51097|1666||
+2702|Family Care Limited|Family Car|00000|1666||
+1708|Jazz Pharmaceuticals Inc. |JPI|68727|1666||
+1753|Jazz Pharmaceuticals, Inc. Formerly Azur Pharma|JPI|18860|1708||
+1953|Jazz Pharmaceuticals Inc. |JPI|68727|1666||
+2444|Seattle Genetics, Inc.|Seattle |51144|1666||
+2479|Jazz Pharmaceuticals, Inc. Formerly EUSA Pharma|JPI|57902|2115||
+301|AstraZeneca Pharmaceuticals LP|AZN|00310|266||
+896|Noven Therapeutics, LLC formerly JDS Pharmaceuticals, LLC|Noven |68968|1666||
+963|Otsuka America Pharmaceuticals Inc|Otsuka|59148|1666||
+2079|AMAG Pharmaceuticals, Inc |AMAG|59338|1666||
+2315|Noven Therapeutics, LLC |Noven |68968|896||
+2343|AstraZeneca Pharmaceuticals LP|AZN|00310|266||
+2451|Endo Pharmaceuticals Inc  |Endo |60951|1155||
+2704|Kemwell Biopharma Pvt. Ltd.|Kemwell|00000|1666||
+864|Amgen Inc|Amgen|55513|1666||
+1337|Lundbeck Inc. (Formerly Ovation Pharmaceuticals, Inc)|Lundbeck |67386|2146||
+180|Sanofi-Aventis US LLC|Sanofi-A|00024|1666||
+184|GlaxoSmithKline Group of Companies|GSK|00029|43||
+1917|Stiefel Laboratories, Inc a GSK Company|Stiefel|63032|877||
+2074|Winthrop U.S., a business of Sanofi-Aventis|Winthrop|00955|180||
+2654|ThromboGenics Inc.|ThromboGen|24856|1666||
+2705|Clark Pharmaceuticals|Clark|00000|1666||
+1909|Par Brand Pharmaceuticals|Par Brand |49884|661||
+976|Ascent Pediatrics, Inc. a Subsidiary of Medicis Corporation|Ascent |59439|1386||
+1127|Eisai Inc|Eisai|62856|1666||
+1238|Wellspring Pharmaceutical Corp|Wellspring|65197|1666||
+1367|Meda Pharmaceuticals formerly Alaven Pharmaceuticals LLC|Meda|68220|1931||
+1931|Meda Pharmaceuticals, Inc.|Meda|00037|1666||
+2068|Meda Pharmaceuticals|Meda |00037|1931||
+653|Mylan Specialty L.P.,  formerly Dey, L.P|Mylan|49502|1919||
+1376|Natures Bounty|Nature Bty|74312|1666||
+1445|Sigma-Tau Pharmaceuticals Inc|Sigma Tau|54482|1666||
+2184|Macoven Pharmaceuticals, LLC|Macoven|44183|1241||
+1870|Bristol-Myers Squibb|BMS|66733|158||
+2706|Afaxys, Inc. |Afaxys|50102|1666||
+222|Sanofi-Aventis US LLC|Sanofi-A|00075|180||
+230|Sanofi-Aventis US LLC|Sanofi-A|00088|180||
+352|Lannett Co Inc|Lannett|00527|1666||
+1220|Philips Oral Healthcare-LA, formerly Discus Dental Inc|Philips|64854|1666||
+2054|Kowa Pharmaceuticals America (formerly Proethic Pharmaceuticals Inc)|Kowa|66869|1666||
+565|AmerisourceBergen Corporation|ABC|24385|1697||
+2225|Invado Pharmaceuticals|Invado|49939|1666||
+399|Upsher-Smith Laboratories, Inc|UPS|00832|279||
+1736|Sucampo Pharmaceuticals, Inc. |Sucampo|17350|1666||
+2115|Jazz Pharmaceuticals, Inc. Formerly EUSA Pharma - USA|JPI|08489|1708||
+2162|Piramal Enterprises Limited|Piramal|00000|1666||
+2346|CNS Therapeutics Inc|CNS|45945|1666||
+2430|Theralogix, LLC|Theralogix|13349|1666||
+2431|Reckitt Benckiser Inc USA|RBI|39977|509||
+2556|International Medication Systems, Ltd a Division Amphastar Pharmaceuticals Inc|IMS|76329|1872||
+2583|Oak Pharmaceuticals wholly-owned subsidiary Akorn Inc.|Oak|76478|550||
+2669|Avion Pharmaceuticals  LLC|Avion|75854|2200||
+2711|Cosmo S.p.A|Cosmo|00000|1666||
+2712|GenBioPro, Inc. |GenBioPro|43393|1666||
+2714|Konsyl Pharmaceuticals Inc.|Konsyl|00224|1666||
+2715|Costco Wholesale Corporation|Costco |63981|1666||
+2716|Microlife USA, Inc|Microlife|42632|2298||
+2717|Duchesnay USA, Inc|Duchesnay|55494|1666||
+2437|TAGI Pharma, Inc.|TAGI|51224|2438||
+2559|IMPAX Pharmaceuticals|IMPAX|64896|1805||
+2560|Epic Pharma LLC|Epic|42806|2140||
+2708|La Roche -  Posay, LLC|La Roche|83140|1666||
+2718|Oakwood Laboratories, L.L.C.|Oakwood|00000|1666||
+1878|JayMac Pharmaceuticals, LLC|JayMac|64661|1666||
+1694|Bayer HealthCare Pharmaceuticals formerly Intendis, Inc|Intendis|10922|677||
+2720|Fora Care Inc.|Fora Care |16042|2138||
+1360|Primus Pharmaceuticals, Inc.|Primus|68040|1666||
+1634|Gentex Pharma LLC|Gentex|15014|1666||
+1918|KVK-Tech, Inc.|KVK-Tech|10702|1666||
+2096|Pronova Corporation|Pronova |67555|1666||
+2575|West-Ward Pharmaceutical Corp|West-Ward|00143|248||
+944|GM Pharmaceuticals Inc|GM |58809|1666||
+2585|Medline Industries, Inc.|Medline|84389|1666||
+2723|Medline Industries, Inc.|Medline|80196|2585||
+1897|Aurora Pharmacy, Inc.|Aurora|00000|1666||
+2076|Seton Pharmaceuticals, LLC|Seton |13925|1666||
+1027|Health Care Products|HCP|60569|1666||
+1075|Health Care Products Div|HCP|61787|1027||
+2502|Ritedose Pharmaceuticals, LLC|Ritedose|76204|1666||
+2725|Thymorgan Pharmazie|Thymorgan|00000|1666||
+2726|Wegmans Food Markets|Wegmans|00000|1666||
+1198|Baxter Healthcare Corporation Clintec Nutrition Division|Baxter |00338|306||
+2326|BioComp Pharma, Inc|BioComp|44523|261||
+158|Bristol Myers Squibb Co|BMS|00003|1666||
+218|Bristol Myers Squibb Co|BMS|00072|158||
+593|Medisca Inc|Medisca|38779|1666||
+2727|West-Ward Injectables|WWI|00641|248||
+1997|PD-RX|PD-RX|58864|1993||
+1539|Astellas Pharma US, Inc.|Astellas|00469|1666||
+2033|Astellas Pharma US|Astellas|51248|43||
+2187|Merck Sharp & Dohme Corp., a Subsidiary of Merck & Co., Inc.|Merck S&D|00052|1301|otc|
+2728|Biokomes SRL|Biokomes|00000|1666||
+2729|Medline Industries, Inc|Medline|53329|2585||
+1354|QOL Medical LLC|QOL Med|67871|1666||
+997|Jubilant Cadista Pharmaceuticals Inc.|Jubilant|59746|1666||
+114|BioMarin Pharmacetuical Inc|BioMarin|68135|1666||
+2199|Prodigy Diabetes Care LLC|Prodigy |08484|1666||
+1532|Larken Laboratories|Larken|68047|1666||
+2000|Patrin Pharma Inc|Patrin|39328|1666||
+2525|Corcept Therapeutics Incorporated |Corcept |76346|1666||
+2732|PharmaSmart International|PharmaSmar|51292|1666||
+1990|Ascend Laboratories, LLC a Subsidiary of Alkem Laboratories Ltd|Ascend Lab|67877|1666||
+2341|NerPharMa sRL|NerPharMa|00000|1604||
+2733|Nestlé Health Science, a wholly-owned subsidiary of Nestlé|Nestlé|00000|1604||
+351|PamLab, a Division of Nestle Health Science|PamLab|00525|2733||
+2106|PamLab, a Division of Nestle Health Science|Pamlab|00525|351||
+2302|Topco Associates LLC|Topco |36800|1666||
+2734|Penn Pharmaceutical Services Ltd|Penn|00000|1666||
+1186|Excellium Pharmaceutical Inc|Excelliium|64125|1666||
+1262|CutisPharma, Inc|CutisPharm|65628|1666||
+2730|Micro Labs USA Inc. |Micro Labs|42571|1666||
+2736|Polygen Pharmaceuticals LLC|Polygen|52605|1666||
+1062|Polymedica Pharmaceuticals USA Inc|Polymedica|61451|2740||
+1161|DSM Pharmaceuticals Inc|DSM |63552|2740||
+1802|Zerxis Pharma LLC a Division of PamLab, LLC|Zerxis |18011|351||
+2737|i-Health, a Division of DSM|i-Health|92961|2740||
+2738|i-Health, a Division of DSM|i-Health|49100|2740||
+2739|ConAgra Foods Inc.|ConAgra|49100|1666||
+2740|DSM Nutritional Products, Inc.|DSM|50146|1666||
+2224|Alvogen, Inc|Alvogen|47781|1666||
+2535|vitaMedMD a Division of Therapeutics MD|vitaMedMD|10782|2536||
+2608|The Kroger Co.|The Kroger|11110|2357||
+239|Xttrium Laboratories Inc|Xttrium|00116|1666||
+1725|LifeScan Inc|LifeScan |53885|1755||
+1278|Cumberland Pharmaceuticals|Cumberland|66220|1666||
+1084|Obagi Medical Products Inc|Obagi|62032|267||
+2741|Prodigy Diabetes Care LLC|Prodigy|08484|2199||
+2742|Ranir Corp|Ranir Corp|00000|1666||
+2743|Premier Inc.|Premier In|00000|1666||
+2744|McKesson Corporation|McKesson |10939|646||
+2745|Prestige Brands Inc|Prestige|56184|2069||
+2748|Corden Pharma |Corden |00000|1666||
+2749|Septodont, Inc|Septodont|00362|523||
+2750|Novocol Pharmaceutical of Canada, Inc.|Novocol |51004|1666||
+331|Century Pharmaceuticals Inc|Century |00436|1666||
+1200|Biogen Idec Pharmaceuticals Corp|Bio Idec |64406|987||
+1942|Coria Labs, Ltd a division of Valeant|Coria|13548|267||
+2751|Boiron Borneman|Boiron|00000|1666||
+2093|SOBI ab, formerly Biovitrum AB|SOBI|66658|1666||
+2752|LIFE SCIENCE NUTRTIONALS |LIFE SCI|00000|1666||
+2754|Aphena Pharma Solutions|Aphena|00000|1666||
+2756|Product Quest Manufacturing LLC|Product|00000|1666||
+2753|Fruit of the Earth|Fruit|00000|1666||
+2757|KVK OPCO Inc|KVK OPCO|00000|1666||
+2758|ORALABS, INC|ORALABS|00000|1666||
+2759|Phoenix Global Supply|Phoenix |00000|1666||
+2121|Savage Laboratories A division of Nycomed US Inc.|Savage Lab|00281|1711||
+2760|Aso LLC|Aso LLC|00000|1666||
+2761|UNIPACK INC|UNIPACK|00000|1666||
+2762|PARK LABS LLC|PARK LABS|00000|1666||
+2763|MORTON SALT, INC|MORTON|00000|1666||
+2764|ECI Pharmaceuticals |ECI Pharma|51293|1666||
+2765|Sigmapharm Laboratories, LLC|Sigmapharm|42794|1666||
+2766|PuriCore, Inc|PuriCore|00000|1666||
+2767|PROPHASE LABS, INC|PROPHASE|00000|1666||
+248|West-Ward Pharmaceutical|West-Ward|00143|961||
+2768|Hormel Foods|Hormel|00000|1666||
+2769|SATO Pharm|SATO|00000|1666||
+2770|NICAR LABORATORIES  |NICAR LAB|00000|1666||
+2771|ATICO INTERNATIONAL |ATICO|00000|1666||
+2773|Antibiotice SA Romania.|Antibiotic|00000|1666||
+2774|BD Rx Inc., a subsidiary of Becton, Dickinson & Company|BD Rx|76045|416||
+304|Crown Laboratories Inc|Crown |00316|1666||
+608|Co Med Pharmaceuticals Inc Dba Med Derm Pharms|CoMed|45565|1666||
+1259|Upstate Pharma, LLC|Upstate|65580|774||
+2249|Upstate Pharma, LLC|Upstate|00131|1259||
+2776|Farméa|Farméa|00000|1666||
+2777|Par Formulations Private Limited|Par|00000|661||
+2778|Feeling Fine Programs Inc.|FFPI|17339|1666||
+2524|Sancilio and Company Inc|Sancilio|44946|2154||
+2779|LORNAMEAD, INC|LORNAMEAD|00000|1666||
+2781|McKesson Corporation|McKesson|10939|646||
+2782|Ascent Pharmaceuticals|Ascent|00000|1666||
+2428|Almatica Pharma, a subsidiary of Alvogen|Almatica|52427|2224||
+2784|Lang Pharma Nutrition, Inc.|Lang|00000|1666||
+718|Fagron, formerly Gallipot Inc|Fagron|51552|1666||
+2396|Horizon Pharma, Inc|Horizon|75987|1666||
+2786|IRWIN NATURALS|IRWIN|00000|1666||
+2399|Accera, Inc|Accera|42907|1666||
+2787|Raptor Therapeutics, Inc.|Raptor|00000|1666||
+1888|Inspire Pharmaceuticals, Inc., a subsidiary of Merck & Co., Inc.,|Inspire|31357|2222||
+2228|Rochester Pharmaceuticals|Rochpharm|49908|1666||
+2788|Xelo Pharmaceuticals|Xelo|00000|1666||
+1980|Harris Pharmaceutical, Inc.|Harris |67405|1666||
+2789|Suneva Medical Inc|Suneva |50224|1666||
+2790|Agila Specialties Private Limited|Agila|00000|312||
+2791|Amneal-Agila, LLC|Amneal-Agi|53150|1666||
+2792|Importfab|Importfab|00000|1666||
+658|Hercon Laboratories Corp|Hercon |49730|1666||
+2154|Sancilio and Company Inc.|Sancilio|44946|1666||
+2647|McKesson Corporation|McKesson|52569|646||
+2772|McKesson Corporation|McKesson|52569|646||
+2793|ENZYMEDICA, INC|ENZYMEDICA|00000|1666||
+2392|XenoPort, Inc.|XenoPort|53451|1666||
+2794|Davagen Pharmaceuticals|Davagen|00000|1666||
+251|Warner Chilcott Inc formerly P&G Pharmaceuticals |WarnerChil|00149|200||
+2795|Health Enterprises|Health|00000|1666||
+2796|International Vitamin|IV|00000|1666||
+2797|Mylan Laboratories Lmt|Mylan|00000|312||
+2798|Inventia Healthcare Pvt Ltd|Inventia|00000|1666||
+2799|Wellements LLC|Wellements|00000|1666||
+2800|Guerbet LLC |Guerbet|00000|1666||
+2801|Sidmak Laboratories (India) Pvt. Ltd.|Sidmak Lab|00000|1666||
+2802|Paragon BioTek Inc|Paragon|42702|1666||
+2116|Validus Pharmaceuticals LLC|Validus |30698|1898||
+869|Valera Pharmaceuticals, Inc|Valera|55592|267||
+932|Genzyme Corp, a Sanofi Company|Genzyme|58468|180||
+1825|NextWave Pharmaceuticals, Inc.|NextWave|24478|2353||
+2353|NextWave Pharmaceuticals, Inc.|NextWave|24478|202||
+722|OHM Laboratories Inc|OHM|51660|1148||
+1054|Falcon Pharmaceuticals Ltd;  A Sandoz Company|Sandoz|61314|212||
+1358|Vertical Pharmaceuticals Inc|Vertical |68025|1666||
+2805|PROFOOT Inc|PROFOOT|00000|1666||
+2806|ThePharmaNetwork,LLC|ThePharmaN|53097|1666||
+2807|TRP Company, Inc|TRP|00000|1666||
+2808|SCHWABE NORTH AMERICA|SCHWABE |00000|1666||
+212|Alcon Laboratories, Inc., a Novartis Company|Alcon Labs|00065|224||
+412|Alcon Laboratories, Inc., a Novartis Company|Alcon Labs|00998|212||
+1939|Iroko Pharmaceuticals, LLC|Iroko|42211|1666||
+2618|Alcon Laboratories Inc., a Novartis Company|Alcon|00000|212||
+2809|MEDI HEAT INC|MEDI HEAT|00000|1666||
+700|Poly Pharmaceuticals Inc|Poly Pharm|50991|1666||
+2810|ProCore Pharma|ProCore|00000|1666||
+2811|Tandem Diabetes Care|Tandem DC|89152|1666||
+1557|Solstice Neurosciences, a subsidiary of US WorldMeds,  LLC |Solstice|10454|2242||
+2812|Lukare Medical, LLC|Lukare|55792|1666||
+1684|Palmetto Pharmaceuticals|Palmetto|68134|289||
+1826|Tris Pharma Inc.|Tris|00000|1666||
+2813|NaturePlex LLC|NaturePlex|00000|1666||
+2814|BioAlliance|BioAllianc|00000|1666||
+2568|Delhaize America|Delhaize|25439|1666||
+2593|Prestium Pharma, Inc.|Prestium|40076|2815||
+2815|Renaissance Pharma|Renaissanc|40085|1666||
+2816|Wal-Mart Stores, Inc.|Wal-Mart |05388|1669||
+2336|Accredo Health Group, Inc|Accredo|00000|1666||
+2439|Gensavis Pharmaceuticals, LLC|Gensavis |52304|1666||
+2818|Palmetto Pharmaceuticals, LLC|Palmetto|68134|1684||
+2630|Royal Pharmaceuticals|Royal|68791|1666||
+2146|Lundbeck Inc.|Lundbeck|67386|1666||
+2820|Tris Pharma|Tris Pharm|27808|1826||
+2822|Lineage Therapeutics|Lineage |54505|2803||
+2823|The Podiatree Company|Podiatree|54633|1666||
+2825|Glaxosmithkline Consumer Healthcare, Lp|GSK|53100|245||
+2826|Glaxosmithkline Consumer Healthcare, Lp.|GSK|48582|245||
+2827|Glaxosmithkline Consumer Healthcare, Lp.|GSK|57145|245||
+2829|Galen US INC|Galen US|00000|1666||
+1876|Intas Pharmaceuticals LTD|Intas|16364|1666||
+2830|Onco Therapies Ltd, a wholly owned subsidiary of Strides Arcolab Ltd,|Onco|47351|2267||
+2832|Famy Care Lmt|Famy|00000|1666||
+2250|Meda Pharmaceuticals formerly Alaven Consumer Health|Meda|46017|1367||
+2834|Meda Consumer Healthcare Inc.|Meda Cons|88901|1931||
+2835|Entera Health, Inc|Entera|05570|1666||
+2836|Global Pharmaceuticals|Global|00115|1805||
+245|GlaxoSmithKline Consumer Healthcare LP|GSK |00135|43||
+2821|Orexo US Inc|Orexo US|54123|1666||
+2838|Lake Consumer Inc, a subsidiary of Wisconsin Pharmacal|Lake|00000|1666||
+1748|Savient Pharmaceuticals, Inc.|Savient |54396|1666||
+2442|Patriot Pharmaceuticals, LLC|Patriot |10147|1651||
+2841|NextSource Biotechnology, LLC.|NextSourc|58181|1666||
+2842|Italfarmaco S.p.A.|Italfarmac|00000|1666||
+2514|Simple Diagnostics|Simple Dia|98302|1666||
+2817|AmerisourceBergen Corporation|ABC|87701|1697||
+2839|Diversified Pharmaceutical Ingredients, LLC|DPI|55812|2595||
+1529|Affordable Pharmaceuticals LLC|Afford |10572|744||
+1716|Clay Park a  Division of Perrigo |Perrigo|00414|1715||
+2840|La Roche -  Posay, LLC|La Roche|00000|2708||
+2844|Molnlycke Health Care|Molnlycke|00234|1666||
+2308|Alliance Labs|Alliance|17433|1666||
+178|Reed and Carnrick Div Block Drug Co Inc|ReedCarnic|00021|228||
+228|Carnrick Laboratories Inc Div GW Carnrick Co|Carnrick|00086|958||
+717|Elan Pharmaceuticals Inc|Elan |51479|958||
+878|Elan Pharma Ltd|Elan|56125|958||
+958|Elan Pharmaceuticals Inc|Elan |59075|1715||
+1013|Elan Holdings Inc|Elan|60274|958||
+2845|Jubilant DraxImage|DraxImage|45548|1666||
+2569|Exela Pharma Sciences, LLC|Exela|00000|1666||
+2408|RLC Labs, Inc|RLC |64727|1666||
+2848|Silvergate Pharmaceuticals, Inc.|Silvergate|52652|1666||
+149|Midlothian Laboratories, LLC|Midlothian|68308|2546||
+685|Faulding Pharmaceuticals Sub Fh Faulding and Co Ltd|Faulding |50546|1174||
+811|Mayne Pharma Pty Ltd|Mayne|54087|1666||
+1174|Faulding Laboratories Inc|Faulding |63857|811||
+1868|Metrics Inc.|Metrics|10184|811||
+2388|Libertas Pharma, Inc|Libertas|51862|811||
+2406|Optimer Pharmaceuticals, Inc.|Optimer|52015|1355||
+2454|Libertas Pharma|Libertas |51862|2388||
+2546|Midlothian Laboratories|Midlothian|68308|811||
+2849|MEDA Manufacturing GmbH|MEDA Mfg|00000|1931||
+2850|Pharmacist Pharmacy|Pharmacist|63704|1666||
+343|Beach Pharmaceuticals|Beach |00486|1666||
+598|X-Gen Pharmaceuticals Inc|X-Gen|39822|1666||
+883|Walgreen Co|Walgreens|11917|1666||
+1229|Hollister Stier Laboratories LLC|Hollister|65044|2852||
+1544|Stat Trade, Inc|STI|68850|1666||
+2598|Onyx Pharmaceuticals, Inc.|ONXX|76075|864||
+2852|Jubilant HollisterStier|Jubilant|00000|1666||
+2853|Walgreen Co|Walgreens|49022|883||
+676|Hi-Tech Pharmacal Company Inc|Hi-Tech|50383|550||
+1861|Solace Nutrition|Solace |57771|1666||
+2474|Hi-Tech Pharmacal Co., Inc|Hi-Tech |50383|676||
+2549|Marksans|Marksans|00000|1666||
+2854|Southeastern Medical Technologies|SEMedical|00000|1666||
+2855|Ceptaris Therapeutics, Inc.|Ceptaris|42427|1318||
+2413|Dynarex Corporation|Dynarex|16784|1666||
+1554|Basic Organics|Basic Org|00000|1666||
+300|Balan, J.J. Inc|JJ Balan|00304|1666||
+397|Logen Pharmaceuticals Inc.|Logen|00820|1666||
+439|Otis Clapp and Son|Otis Clapp|10244|1666||
+1691|Pharmafab|Pharmafab|62542|1666||
+1696|Medicos Laboratories, Inc|Medicos|00000|1666||
+1762|Ahold Inc.|Ahold |41520|1666||
+1787|Tishcon Corp.|Tishcon |14654|1666||
+1795|Theragenex LLC|Theragenex|00000|1666||
+1797|Princeton Pharmaceutical Products|Princeton|57783|1666||
+1807|GL Diabetes Inc.|GL |08476|1666||
+1819|Ahold USA, Inc.,|Ahold USA|00000|1762||
+1974|Nycomed US|Nycomed US|00000|1666||
+2001|JOLLC|JOLLC|00000|1755||
+2411|American Sales Company|ASC|00000|1762||
+2427|MedInvent, LLC |MedInvent|89117|1666||
+2856|Marnel Pharmaceuitcals, Inc|Marnel|06820|380||
+2857|Artesa Labs, LLC|Artesa|57893|1666||
+2858|Cambrooke Foods, Inc|Cambrooke|24359|1666||
+969|Advanced Magnetics Inc|AMAG|59338|2079||
+226|Natural Nutritionals Company|Natrl Nutr|00084|1666||
+247|Roche Products Inc|Roche|00140|161||
+294|Fluoritab Corp|Fluoritab|00288|1666||
+345|Nephron Pharmaceuticals Corp|Nephron|00487|1666||
+400|HL Moore Drug Exchange|HL Moore|00839|1666||
+813|Shire US Inc|Shire|54092|1666||
+1653|FSC Laboratories, Inc|FSC|13551|1666||
+2034|Spectrum Pharmaceuticals, Inc.|Spectrum|68152|1666||
+2145|Endo Pharmaceuticals Solutions Inc. formerly Indevus|Endo|67979|1155||
+2298|Microlife USA, Inc|Microlife|42632|1666||
+2404|Vertex Pharmaceuticals Inc|Vertex|51167|1666||
+2545|Pharmaxis, Inc|Pharmaxis|44178|1666||
+2622|BocaGreenMD, Inc.|BocaGreen|50265|2536||
+903|Teva Select Brands|Gate |57844|233||
+1298|Spear Pharmaceuticals|Spear |66530|1666||
+2175|Spear Dermatology Products, Inc.|Spear Derm|66530|1298||
+2267|Strides Arcolab|Strides Ar|00000|312||
+2603|Xspire Pharma, LLC|Xspire|42195|1666||
+2053|Reckitt Benckiser Inc. (Formerly Adams RT )|RBI|63824|509||
+2860|Reckitt Benckiser Inc. (Formerly Adams RT )|Reckitt Be|63824|509||
+1984|Aristos Pharmaceuticals, Inc|Aristos|24486|1534||
+2819|PillGuard Medication Delivery Systems, LLC|PillGuard|00000|1666||
+2137|Par Pharmaceuticals|Par |49884|661||
+2863|Lehigh Valley Technologies, Inc.|Lehigh|64950|1227||
+1366|Shionogi Pharma, Inc.|Shionogi|68188|988||
+1697|AmerisourceBergen Corporation|ABC|46122|1666||
+2865|New Horizon Rx Group, LLC|New Horizo|58517|1666||
+988|Shionogi Pharma, Inc.|Shionogi |59630|156||
+303|Crown Laborartories, formerly Del Ray Laboratories Inc|Crown|00316|304||
+2362|ParaPRO LLC|ParaPRO|52246|1666||
+2574|Crown Laborartories, formerly Del Ray Dermatologicals|Del Ray |00000|304||
+2866|Nuro Pharma|Nuro|59547|1666||
+368|Bristol Myers Squibb Holdings Pharma Ltd|BMS|00590|158||
+1241|Pernix Therapeutics, LLC Formerly Zyber Pharmaceutical Inc|Pernix |65224|1666||
+1141|Ballay Pharmaceuticals|Ballay |63162|1666||
+2775|Bayshore Pharmaceuticals|Bayshore|76385|1666||
+2288|Wallace Pharmaceuticals A subsidiary of Meda Pharmaceuticals Inc|Wallace|51525|1931||
+2533|Mobius Therapeutics, LLC|Mobius|49771|1666||
+2868|Xspire Pharma Brand|Xspire|42195|2603||
+2869|Ei LLC|Ei LLC|00000|1666||
+2870|Shopko Stores Operating Co LLC|Shopko |00000|1666||
+2871|ContourMed Inc|ContourMed|00000|1666||
+1277|Actelion Pharmaceuticals US Inc|Acetlion|66215|1666||
+2872|Rare Disease Therapeutics, Inc.|RDT|66621|1666||
+2873|Apotek Produktion & Laboratorier AB, Sweden|Apotek|00000|1666||
+2874|iCeutica Pty Ltd.)|iCeutica |00000|1666||
+2785|Galena Biopharma|Galena|57881|1666||
+2875|R3 Pharmaceuticals,LLC|R3|59999|1666||
+2876|Perrigo Pharmaceuticals|Perrigo|45802|1715||
+2157|Fera Pharmaceuticals|Fera Pharm|48102|1666||
+1593|Orchid Healthcare|Orchid|68820|1666||
+2689|Gensco Laboratories|Gensco|35781|1666||
+2877|Medvantage Pharmaceuticals, LLC|Medvantage|64533|1666||
+1528|ViroPharma Inc.|ViroPharma|66593|813||
+2489|Cardinal Health, Inc.|Cardinal|96295|745||
+2837|Glaxosmithkline Consumer Healthcare, Lp.|GSK|00088|245||
+2880|Crealta Pharmaceuticals LLC|Crealta |60809|1666||
+2881|Stiefel Laboratories Inc a GSK Company|Stiefel |73462|250||
+2882|Cardinal Health Inc.|Cardinal|96295|745||
+390|GlaxoSmithKline Consumer Healthcare|GSK |00766|245||
+2516|Antares Pharmaceuticals|Antares|54436|1689||
+1164|Synthon Pharmaceuticals Ltd|Synthon|63672|1666||
+2884|Syntho Pharmaceuticals, Inc|Syntho|66576|1666||
+2885|Recordati Rare Diseases|RRD|55292|1666||
+2887|Roche Diagnostics Corporation|Roche DC|75537|2072||
+2385|Dr. Reddy’s Laboratories Inc.|Dr. Reddy|43598|851||
+2831|Dr. Reddy's Laboratoies, Inc|Dr. Reddy|55111|851||
+1311|Parenta Pharmaceuticals a Sandoz Company|Parenta|66758|1958||
+2888|Pernix Therapeutics, LLC |Pernix|65224|1241||
+112|Amylin Pharmaceuticals, wholly-owned subsidiary of BMS|Amylin |66780|158||
+710|Duramed Pharmaceuticals Inc a Division of Teva USA|Duramed|51285|358||
+1117|Ucyclyd Pharma, a wholly-owned subsidiary of Valeant|Ucyclyd|62592|1386||
+1153|Cephalon Inc. a wholly-owned subsidiary of Teva|Cephalon|63459|233||
+1386|Medicis Dermatologics Inc. a wholly-owned subsidiary of Valeant|Medicis |99207|267||
+2376|Human Genome Sciences, Inc, a wholly-owned subsidiary of GSK|HGS|49401|1666||
+2889|Gemini Laboratories, LLC|Gemini Lab|60846|1666||
+2592|Aspen Global Inc|Aspen|76388|1666||
+921|Kirkman Labs|Kirkman |58223|1666||
+2851|Acton Pharmaceuticals, a wholly owned subsidiary of Meda Pharmaceuticals|Acton|75989|1931||
+2471|Elorac, Inc|Elorac|42783|1666||
+2469|Exact-Rx  Inc.|Exact-Rx|42808|2470||
+2892|CMIC CMO USA Corporation|CMIC CMO|00000|1666||
+2895|Merz Aesthetics, Inc Inc|Merz|46783|284||
+2434|Talec Pharma|Talec |76181|2418||
+2363|Ingenus Pharmaceuticals, LLC|Ingenus|50742|1666||
+85|Ista Pharmaceuticals, a wholly-owned subsidiary of Valeant|Ista |67425|564||
+564|Bausch and Lomb Pharmaceuticals Inc, a wholly-owned subsidiary of Valeant|Bausch|24208|267||
+2102|Bausch and Lomb Pharmaceuticals Inc, a wholly-owned subsidiary of Valeant|Bausch|24208|564||
+2246|Bausch and Lomb Inc, a wholly-owned subsidiary of Valeant|Bausch|61772|564||
+1883|CarWin Associate, Inc.|CarWin |15370|967||
+2896|CP Pharmaceuticals, Ltd|CP Pharma|00000|1666||
+2361|QOL Medical|QOL|67871|1354||
+1983|Chain Drug Consortium , LLC|CDC|68016|1666||
+2898|Strides Pharma., Inc.|Strides|64380|1666||
+2201|Excella GmbH|Excella |00000|1666||
+371|Qualitest Pharmaceuticals Inc|Qualitest|00603|1155||
+2891|Concordia Pharmaceuticals Inc.|Concordia |59212|1666||
+1171|7 Oaks Pharmaceutical Corp|7 Oaks|63801|1386||
+2719|NuPathe Inc.|NuPathe In|51759|233||
+1813|Eisai Oncology|Eisai |62856|1127||
+1683|Laser, LLC Pharmaceuticals|Laser |16477|289||
+1775|ANDAPharm, LLC|Andapharm |13273|1086||
+2507|STI Pharma LLC|STI Pharma|54879|1666||
+2900|UniStrip Technologies, LLC|UniStrip|89167|1666||
+2216|Vanda Pharmaceuticals Inc.|Vanda |43068|1666||
+2166|Amerigen Pharmaceuticals Inc|Amerigen|43975|1666||
+2901|Captiva Pharma, LLC |Captiva|00000|1666||
+522|Bayer Corp Consumer Care Div|Bayer |12843|182||
+177|Mallinckrodt  Inc|Malinkrodt|00019|1666||
+322|Mallinckrodt Inc Pharmaceuticals Group|Mallinckro|00406|177||
+388|D M Graham Laboratories Div|DM Graham|00756|177||
+1792|Zypharma Pharmaceuticals|Zypharma |00406|177||
+1811|Mallinckrodt  Brand Pharmaceuticals Inc |Malinkrodt|23635|177||
+1812|Mallinckrodt Brand Pharmaceuticals Inc|Malinkrodt|00406|177||
+2334|Cadence Pharmaceuticals Inc|Cadence|43825|177||
+2731|Mallinckrodt Inc Pharmaceuticals |Mallinckro|00406|177||
+2903|Lifeforce BioCeuticals|Lifeforce|00000|1666||
+2904|Mist Pharmaceuticals|Mist|76299|1666||
+2902|Aedicell, Inc|Aedicell|00000|1666||
+2905|Foundation Care LLC|Found Care|00000|1666||
+2906|GlaxoSmithKline Consumer Healthcare|GSK|10158|245||
+1042|Endo Pharmaceuticals Inc |Endo |60951|1155||
+2859|Citron Pharma LLC|Citron|57237|1666||
+2908|TYA Pharmaceuticals|TYA|64725|1666||
+724|Blansett Pharmacal Co Inc|Blansett|51674|1666||
+1916|Summers Laboratories Inc|SummersLab|11086|2085||
+2263|Nautilus Neurosciences, Inc|Nautilus|50192|1666||
+2909|Summers Laboratories, Inc.|Summers|94731|1916||
+2910|Brava Pharmaceuticals, LLC|Brava|57883|1666||
+1071|Mayne Pharma (USA) Inc a Division of Hospira Worldwide|Mayne |61703|324||
+1869|Par Pharmaceuticals, formerly Anchen Pharmaceuticals|PAR|10370|661||
+1740|Alkermes Inc|Alkermes|65757|1666||
+2159|County Line Pharmaceuticals|CountyLine|43199|1666||
+531|Johnson & Johnson - Merck Consumer Pharmaceuticals Co|J&J|16837|1755||
+2257|Johnson & Johnson Consumer Companies, Inc|J&J|12547|1680||
+2258|Johnson & Johnson Consumer Companies, Inc|J&J|74300|1680||
+2478|Halozyme Therapeutics Inc|Halozyme|18657|1666||
+2635|Johnson & Johnson Consumer Companies, Inc|Johnson|58232|1755||
+1119|Biovail Corp|Biovail|62660|267||
+1199|Boca Pharmacal Inc a Qualitest Company|Boca|64376|1155||
+1202|Biovail Pharmaceuticals Inc|Biovail|64455|1119||
+2064|BTA Pharmaceuticals, Inc. a Valeant Company|BTA |64455|1119||
+2894|Biocompatibles, Inc, a division of BTG International Ltd |BTG|60635|1452||
+2500|Cintex Services, LLC|Cintex |24470|1666||
+2550|WH Nutritionals, LLC|WH Nutrion|76331|2464||
+2914|Johnson & Johnson Consumer Companies, Inc|J&J|00081|1680||
+2916|Stallergenes|Stallergen|00000|2915||
+2917|Vivimed Labs Limited|Vivimed|00000|1666||
+1133|Questcor Pharmaceuticals Inc|Questcor|63004|177||
+2918|Chartwell Pharmaceuticals , LLC|Chartwell|00000|1666||
+2920|Nationwide Laboratories|Nationwide|42937|1666||
+2109|Trigen Laboratories, Inc.|Trigen |13811|1666||
+2922|Pragma Pharmaceuticals, LLC|Pragma|58463|2157||
+2923|Kaleo, Inc.|Kaleo|60842|1666||
+2924|Savage Laboratories A division of Nycomed US Inc.|Savage Lab|00281|2687||
+2925|Nestle Healthcare Nutrition, Inc|Nestle|43900|1604||
+1060|Carlsbad Technology Inc|Carlsbad|61442|1666||
+689|McNeil Consumer Healthcare Division of McNEIL-PPC, Inc.|McNeil |50580|1680||
+2926|Pohl Boskamp|Pohl Boska|00000|1666||
+2605|Elorac Inc.|Elorac|42783|1666||
+1294|Xcel Pharmaceuticals  a Division of Valeant Pharmaceuticals|Xcel|66490|267||
+1534|Cornerstone Biopharma, a subsidiary of Chiesi USA|Cornerston|10122|1666||
+1734|Oceanside Pharmaceuticals, Inc.  a Division of Valeant Pharmaceuticals|Oceanside|68682|267||
+2073|Cornerstone Therapeutics, a subsidiary of Chiesi USA|CRTX|10122|1534||
+2172|Oceanside Pharmaceuticals, Inc.  a Division of Valeant Pharmaceuticals|Oceanside |68682|1734||
+2631|Ajanta Pharma USA Inc|Ajanta|27241|1666||
+2862|Cornerstone Therapeutics, a subsidiary of Chiesi USA|CRTX|10122|1534||
+2927|H2-Pharma, LLC|H2-Pharma|61269|1666||
+701|Mylan Institutional LLC formerly UDL Laboratories Inc|Mylan|51079|312||
+2084|Mylan Institutional LLC formerly BionichePharma Inc.|Mylan Inst|67457|1490||
+2271|Mylan Institutional LLC formerly BionichePharma Inc.|Mylan Inst|67457|1490||
+2349|Mylan Institutional LLC|Mylan|00000|312||
+2928|Heritage Pharmaceuticals Inc.|Heritage|23155|1751||
+285|B Braun Medical Inc|BBraun|00264|1666||
+2929|DARA BioSciences, Inc.|DARA|89141|1666||
+2930|Helsinn Healthcare SA|Helsinn|00000|1666||
+2931|Suven Life Sciences Limited|Suven Life|00000|1666||
+2932|HEC Sunshine Lake Pharma CO.Ltd |HEC Sun|00000|1666||
+2933|Alliqua BioMedical|Alliqua|00000|1666||
+2548|Chelsea Therapeutics, Inc|Chelsea|76320|2146||
+2934|Nivagen Pharmaceuticals|Nivagen|75834|1666||
+2936|AnovoRx Distribution LLC|AnovoRx |00000|1666||
+2937|Anacor Pharmaceuticals, Inc|Anacor|55724|1666||
+1037|Pierre Fabre Pharmaceuticals, Inc|Pierre Fab|60831|1666||
+2938|Pierre Fabre Pharmaceuticals, Inc|Pierre Fab|64370|1037||
+2935|Nova Laboratories Ltd|Nova |62484|1666||
+981|Nephro Tech Inc|Nephro Tec|59528|1666||
+1801|Idenix Pharmaceutical Inc|Idenix|24108|2222||
+2942|Kaken Pharmaceutical Co. Ltd|Kaken|00000|1666||
+1686|Pack Pharmaceuticals, LLC|Pack|16571|2885||
+2360|Respiratory Delivery Systems, INC|RDS|00000|1228||
+2945|Laboratorios Dr. Esteve, S.A.|Esteve|00000|1666||
+1145|United States Surgical Div Tyco Healthcare Group Lp|US Surg|63261|1780||
+1780|Covidien Formerly Tyco Healthcare|Covidien|00000|1830||
+1781|ARKRAY USA.|ARKRAY|08317|1666||
+1830|Medtronic Diabetes|Medtronic |76300|1666||
+2944|National Medical Assets, LLC|IMED|93573|1666||
+2946|Bi-Coastal Pharmaceutical Corp.|Bi-Coastal|42582|1666||
+2947|Bioindustria L.I.M. S.p.A.|Bioindustr|00000|1666||
+1927|Par Sterile Products, LLC (formerly JHP Pharmaceuticals) a subsidiary of Par Pharmaceutical Inc|Par Steril|42023|661||
+1331|STADA Pharmaceuticals Inc|STADA|67253|1564||
+2948|BioDelivery Sciences International, Inc.,|BioDeliver|00000|1666||
+2400|Regency Therapeutics, a division of Luitpold Pharmaceuticals|Regency|00000|455||
+677|Berlex Laboratories Inc|Berlex|50419|182||
+2949|Novartis Vaccines and Diagnostics, Inc.|Novartis|62577|224||
+2950|MannKind Corporation|MannKind|47918|1666||
+58|Scandipharm Inc|Scandiphar|58914|2512||
+393|UAD Laboratories Inc|UAD Labs|00785|2512||
+617|CMP Pharma formerly Carolina Medical Products Co|CMP Pharma|46287|1666||
+2233|X-Gen Pharmaceuticals Inc.|X-Gen|68212|334||
+2611|Diabetic Supply Of Suncoast, Inc.|DSOSI|94046|1666||
+1531|Abraxis BioScience a wholly-owned subsidiary of Celgene Corporation|Abraxis|68817|983||
+1149|Fresenius Kabi USA, LLC formerly APP Pharmaceuticals|APP|63323|1828||
+1910|OraPharma, Inc., a division of Valeant|OraPharma|65976|267||
+1921|Fresenius Kabi USA, LLC formerly APP Brand Pharmaceuticals|APP |63323|1149||
+2951|PharmaTech Solutions Inc.|PharmaTech|08914|1666||
+2954|Haupt Pharma, Inc|Haupt|00000|1666||
+2955|Teva Women's Health, Inc.|Teva |51285|233||
+2956|Retrophin, Inc.|Retrophin|00000|1666||
+2957|Zylera Pharmaceuticals a Division of TRx Pharma LLC|Zylera|23594|1795||
+200|Actavis- US Brands formerly Warner Chilcott Inc|Actavis US|00047|752||
+277|Actavis Inc. formerly Purepac Pharmaceutical Co |Actavis US|00228|1756||
+329|Actavis- US Brands formerly Warner Chilcott PLC|Actavis US|00430|200||
+334|Actavis- US Brands formerly Forest Pharmaceuticals Inc|Actavis US|00456|752||
+338|Actavis Inc.|Actavis US|00472|1756||
+369|Actavis Inc. formerly Watson Pharmaceuticals Inc|Actavis US|00591|752||
+379|United Research Laboratories, Inc. a subsidiary of Sun Pharmaceutical Industries, Inc.|URL Mutual|00677|1216||
+432|Ben Venue Laboratories Inc|Ben Venue|10130|961||
+698|Xactdose Inc a Division of Actavis US|Actavis US|00406|1756||
+738|Actavis Inc. formerly Amide Pharmaceutical Inc|Actavis US|52152|1756||
+752|Actavis Inc. formerly Watson Pharmaceuticals Inc|Actavis US|52544|1666||
+791|Sun Pharmaceutical Industries, Inc.|Sun|53489|379||
+832|Inland Dental Distributors Ltd|Inland |54789|1688||
+898|Sun Pharmaceutical Industries, Inc.|Sun|57664|1858||
+948|Actavis- US Brands formerly Aptalis Pharma, a wholly owned subsidiary of Forest, Formerly Axcan Pharma US, Inc.|Actavis US|58914|2512||
+1086|Actavis Inc. formerly Andrx Pharmaceuticals Inc . a division of Watson|Actavis US|62037|1817||
+1351|Actavis Inc. formerly Abrika Pharmaceuticals|Actavis US|67767|1756||
+1547|AR Scientific a subsidiary of Mutual Pharmaceutical Co. Inc.  a subsidiary of Sun Pharmaceutical Industries, Inc. |AR Sci|13310|379||
+1707|Actavis Inc. formerly WatsonPharma Inc|Actavis US|52544|752||
+1720|Actavis- US Brands formerly, a wholly owned subsidiary of Forest, Formerly Eurand Inc.|Actavis US|59917|2512||
+1756|Actavis Inc. Elizabeth LLC|Actavis US|00228|752||
+1757|Actavis Inc.|Actavis US|00472|1756||
+1769|Actavis Inc. Towata LLC|Actavis US|52152|1756||
+1785|Actavis Inc. formerly Watson Pharma|Actavis US|55253|752||
+1817|Actavis Inc. formerly Watson Pharmaceuticals|Actavis US|62037|752||
+1818|Actavis Inc. formerly Watson Pharma|Actavis US|62022|752||
+1840|Actavis Inc. formerly Cobalt Laboratories a division Watson Laboratories, Inc.|Actavis US|16252|1612||
+1846|Actavis Inc. formerly Watson Laboratories Inc|Actavis US|00000|752||
+1857|Sun Pharmaceutical Industries, Inc.|Sun|62756|898||
+1858|Sun Pharmaceutical Laboratories, Ltd.|Sun|00000|1666||
+1889|A&Z Pharmaceutical, Inc.|A&Z|00000|511||
+1892|Actavis Inc. South Atlantic LLC|Actavis US|67767|1756||
+1977|Actavis Inc.|Actavis US|18111|1756||
+2023|URL Pharma, Inc. a subsidiary of Sun Pharmaceutical Industries, Inc.|URL Pharma|00677|379||
+2024|Sun Pharmaceutical Industries, Inc.|Sun|53489|379||
+2080|Sun Pharmaceutical Industries, Inc.|Sun|41616|898||
+2107|Actavis -US Brands|Actavis US|63857|1756||
+2160|Actavis Inc.|Actavis US|45963|1756||
+2169|Actavis Inc. Kadian LLC|Actavis US|46987|1756||
+2191|Actavis- US Brands formerly Aptalis Pharma, a wholly owned subsidiary of Forest, Formerly Eurand Pharmaceuticals, Inc. |Actavis US|42865|2512||
+2238|Sun Pharmaceutical Industries, Inc.|Sun|49708|898||
+2247|Sun Pharmaceutical Industries, Inc.|Sun|47335|898||
+2277|Actavis Inc. Elizabeth LLC,|Actavis US|14550|1756||
+2461|B and B Pharmaceuticals, Inc|B and B |63275|1666||
+2472|Sun Pharmaceutical Industries, Inc.|Sun|47335|898||
+2512|Actavis- US Brands formerly Aptalis Pharma, a wholly owned subsidiary of Forest|Actavis US|58914|334||
+2913|Sun Pharmaceutical Industries, Inc.|Sun|49708|898||
+2953|Actavis Inc. formerly Watson Brand|Actavis US|52544|752||
+2958|ALKALOIDA Chemical Company Zrt|ALKALOIDA|00000|1666||
+2959|CSPC Ouyi Pharmaceutical Co Ltd|CSPC Ouyi|00000|1666||
+2960|Acino Products, LLC |Acino|68784|1666||
+2961|Eagle Pharmaceuticals, Inc.|Eagle|42367|1666||
+2962|Aptalis Pharmatech, Inc.|Aptalis|00000|334||
+2963|Pharming Group N.V.|Pharming|00000|1666||
+2964|Independence Pharmaceuticals, LLC|Independen|21724|1666||
+2965|Eirgen Pharma Ltd.|Eirgen|00000|1666||
+2966|HealthTrust Purchasing Group|HealthTrus|00000|1666||
+2968|Vensun Pharmaceuticals Inc|Vensun|42543|1666||
+2967|Alexso Inc|Alexso|50488|1666||
+2969|Mylan Institutional Inc.|Mylan Inst|42292|2349||
+210|Smith and Nephew Biotherapeutics, formerly Healthpoint BioTherapeutics|Smith|00064|681||
+234|ECR Pharmaceuticals|ECR |00095|267||
+785|Tyson and Associates Inc|Tyson|53335|1666||
+1122|Supergen Inc|Supergen|62701|2931||
+1659|United Therapeutics Corporation|UTC|66302|1666||
+1760|UltiMed Inc.|UltiMed|08222|1666||
+1764|UltiMed Inc.|UltiMed |08474|1760||
+1835|Tiber Laboratories|Tiber |23589|2344||
+1838|Unichem Pharmaceuticals USA, Inc|Unichem|29300|792||
+2132|Swabplus Inc.|Swabplus|00000|2884||
+2142|Terumo BCTLtd; formerly Ivex Pharmaceuticals a subsidiary of CaridianBCT|Terumo|14537|2357||
+2217|United Therapeutics Corporation|UTC|66302|1659||
+2390|United Exchange Corporation|United|68169|1666||
+2490|AgaMatrix, Inc|AgaMatrix|08554|1666||
+2494|Transcept Pharmaceuticals, Inc.|Transcept|67213|870||
+2515|Valeritas, Inc.|Valeritas|08560|1954||
+2536|Therapeutics MD|Therap|00000|2344||
+2652|UltiMed Inc.|UltiMed|57515|1760||
+2656|Two Hip Consulting, LLC|Two Hip|76074|1666||
+2684|Trinity Pharmaceuticals LLC|Trinity|54295|2515||
+2703|Smith and Nephew Biotherapeutics, formerly Healthpoint BioTherapeutics|Smith|00064|210||
+2847|USGP, A Division of ProCap|USPG|00000|1666||
+2940|Trimel BioPharma SRL|Trimel Bio|00000|2807||
+2971|BioCryst Pharmaceuticals, Inc.|BioCryst|61364|1666||
+1828|Fresenius Medical Care North America|FMCNA|49230|1666||
+2912|Medac Pharma, Inc|Medac|59137|1666||
+2970|Oncotec Pharma Produktion GmbH|Oncotec|00000|1666||
+2973|Gen-Source RX|Gen-Source|52343|1666||
+584|Wyeth Consumer Healthcare|Wyeth |00573|163||
+1538|Magna Pharmaceuticals |Magna|58407|1666||
+1072|Versapharm Incorporated|Versapharm|61748|550||
+2974|Method Pharmaceuticals|Method|58657|1666||
+283|Actavis- US Brands formerly, Inwood Laboratories Inc Sub Forest Laboratories Inc|Actavis|00258|334||
+1320|Inkine Pharmaceutical a Division of Salix|Inkine|66934|1263||
+2975|Westport Pharmaceuticals LLC|Westport|59675|1666||
+2976|Owen Laboratories, Inc|Owen Lab|69007|296||
+1885|Arbor Pharmaceuticals, LLC|Arbor|24338|1666||
+2019|PruGen, Inc. Pharmaceuticals|PruGen|42546|1666||
+2189|Arbor Pharmaceuticals, LLC|Arbor |24338|1885||
+2977|Teva Respiratory, LLC|Teva Respi|59310|233||
+2978|Jiangsu Hengrui Medicine|Jiangsu|00000|1666||
+2131|Fidia Farmaceutici Spa|Fidia|89122|1666||
+2979|Klosterfrau Berlin GMbH|Klosterfra|00000|1666||
+2981|Orexigen Therapeutics|Orexigen |00000|1666||
+2982|Neolpharma, Inc.|Neolpharma|00000|1666||
+2983|Sallus Laboritories LLC|Sallus |69036|1666||
+2452|Laboratoire HRA Pharma|HRA Pharma|76336|1666||
+1564|Qualitest, formerly Dava Pharmaceuticals Inc|Dava|68774|1155||
+1827|Qualitest, formerly Dava Brand Pharmaceuticals, Inc|Dava |68774|1564||
+1863|Qualitest, formerly DAVA Pharmaceuticals, Inc.|DAVA |67253|1827||
+2919|Qualitest, formerly DAVA Pharmaceuticals, Inc.|DAVA|67253|1564||
+2986|Innocutis Holdings LLC|Innocutis3|68712|1666||
+1989|Allegis Pharmaceuticals, LLC.|Allegis|28595|1666||
+2208|Claris Lifescience Ltd|Claris|36000|1666||
+2984|KERYX BIOPHARMA INC|KERYX|59922|1666||
+2987|Moore Medical Corp.|Moore Medi|00839|1666||
+2988|Cenexi-Laboratoires Thissen|Cenexi-Lab|00000|1666||
+2989|TMIG, Inc|TMIG|69176|1666||
+2990|Zhuhai Guojia New Macromolecule Materials Co.|Zhuhai Guo|00000|1666||
+2991|Areva Pharmaceuticals Inc.|Areva|59923|1666||
+1962|Slate Pharmaceuticals, Inc. a Auxilium Pharmaceuticals, Inc Company|Slate|43773|2304||
+2321|Vista Pharmaceuticals Inc|Vista|61971|1666||
+29|DUSA Pharmaceuticals, Inc. a Sun Pharmaceutical Industries, Inc. Company|Sun|67308|1666||
+2492|Covis Pharmaceuticals, Inc.|COVIS|24987|1666||
+1346|Purdue Products LP|Purdue|67618|189||
+2980|IntraDerm Pharmaceuticals, Inc.|Intraderm|60267|1666||
+2992|Actavis- US Brands formerly Warner Chilcott PLC|Actavis|00430|200||
+2993|Woodfield Pharmaceutical, LLC|WDP|00000|1666||
+2994|Hikma Americas, Inc.|Hikma|59467|961||
+2995|Alimera Sciences Limited|Alimera|68611|1666||
+2879|Allegis Pharmaceuticals, LLC|Allegis|28595|1666||
+1924|Tolmar Inc|Tolmar|62935|2109||
+1655|CorePharma, LLC|CorePharma|64720|2921||
+2251|Amedra Pharmaceuticals|Amedra |52054|2921||
+2803|Lineage Therapeutics|Lineage|54505|2921||
+2921|CorePharma, LLC|CorePharma|64720|1805||
+30|QLT USA, Inc|QLT|00000|1666||
+2415|Pure Tek Corporation|Pure Tek|59088|30||
+2996|Bayshore Pharmaceuticals LLC|Bayshore|76385|2775||
+2780|Alexion Pharmaceuticals, Inc|Alexion|25682|1666||
+2998|Eagle Pharmaceuticals, Inc.  |Eagle|42367|2961||
+3000|Arbor Pharmaceuticals Ireland Limited|APIL|60631|1885||
+3001|Zanfel Laboratories, Inc.|Zanfel|89901|1666||
+3002|Asklepion Pharmaceuticals, LLC|Asklepion|43472|1666||
+3003|Alto Pharmaceuticals,Inc|Alto|00731|1666||
+3004|BonGeo Pharmaceuticals, Inc.|BonGeo|52796|1666||
+3005|AmerX Health Care, a division of Procyon|AmerX|61470|1666||
+3007|Neos Therapeutics, LP|Neos|62542|1666||
+729|Pharmascience Laboratories Inc|Phrmscince|51817|1666||
+2113|Pharbest Pharmaceuticals|Pharbest|16103|1666||
+2212|Edenbridge Pharmaceuticals, LLC|Edenbridge|42799|1666||
+2242|US WorldMeds|US WM|27505|1666||
+2687|Fougera Pharmaceuticals Inc., A Sandoz Company|Fougera|00168|392||
+2939|Durata Therapeutics, Inc, a Division of Actavis US|Durata|57970|752||
+2049|Kremers Urban Inc. a Division of UCB|Kremers|62175|1097||
+2893|Kremers Urban Inc. a Division of UCB|Kremers|62175|1097||
+3008|Nature’s Way Brands|Nature|63948|1666||
+3009|Amneal Pharmaceuticals LLC|Amneal|69238|1709||
+3011|Oaklock, LLC|Oaklock|69263|1532||
+342|Edwards Pharmaceuticals Inc, a Division of Women’s Choice Pharmaceuticals |Edwards |00485|2365||
+3012|Medefil, Inc.|Medefil|64253|1666||
+3013|Concordia Pharmaceuticals Inc.|Concordia|59212|2891||
+3014|Alexso Inc|Alexso|50488|2967||
+41|Avanir Pharmaceuticals|Avanir|64597|963||
+2911|Paladin Therapeutics Inc.|Paladin|61744|1155||
+3015|RxChange Co.|RxChange C|33358|1666||
+1911|Corium International|Corium|00000|2715||
+3016|Emisphere Technologies, Inc.|Emisphere|52062|1666||
+2541|Vansen Pharma|Vansen|44004|2539||
+3017|Pharma Romlev|Pharma|44009|1666||
+3018|Pari Respiratory Equipment |Pari|24492|1882||
+3019|American Lifeline, Inc.|ALI|39423|1666||
+1900|Centurion Labs LLC|Centurion |23359|331||
+3022|Sun Pharmaceutical Industries, Inc.|Sun|57664|898||
+3023|STA3, LLC |STA3|69467|1666||
+1097|Kremers Urban Inc. a Division of UCB, Inc.|Kremers |62175|680||
+2196|Theravance Inc|Theravance|52118|1666||
+2943|Theravance Biopharma, Inc.|Theravance|52118|1666||
+3024|Westminster Pharmaceuticals LLC|Westminst|69367|1666||
+3025|Sallus Laboratories, LLC|Sallus|69036|2983||
+3026|TWi Pharmaceuticals USA|TWi|24979|1666||
+3027|China Chemical and Pharmaceutical Co., Ltd|China Chem|00000|1666||
+3028|Alvix Laboratories, Inc|Alvix|15455|1532||
+3029|Solubiomix, LLC|Solubiomix|69499|1666||
+2999|Burke Therapeutics, LLC|Burke|69101|1532||
+964|Comfortpak Inc|Comfortpak|59172|319||
+2804|Concept Laboratories |Concept|00000|2272||
+3030|Burke Therapeutics, LLC|Burke|69101|2999||
+918|Ethex Corporation|Ethex|58177|1438||
+1177|Lumara Health Inc.|Lumara|64011|2079||
+3031|Sun Pharmaceutical Industries, Inc.|Sun|62756|898||
+936|ME Pharmaceuticals, Div. of Vesco Inc|ME Pharm|58607|1666||
+1231|Rx Pak Div of Mckesson Corp|Rx Pak|65084|646||
+2623|NPS Pharmaceuticals Inc.|NPS|68875|813||
+3033|Accumix Pharmaceuticals, LLC|Accumix|69167|1666||
+3034|Egalet US, Inc|Egalet|00000|1666||
+3035|Sagent Pharmaceuticals, Inc.|Sagent|25021|2521||
+1036|Pfizer US Pharmaceuticals formerly King Pharmaceuticals Inc|King |60793|202||
+1069|Pfizer US Pharmaceuticals formerly Monarch Pharmaceuticals Inc|Monarch |61570|1036||
+2783|BluePoint Laboratories|BPL|68001|1666||
+3036|BluePoint Lab Injectables|BPL|68001|2783||
+3037|Cumberland Pharmaceuticals|Cumberland|66220|1278||
+3038|Cipla USA, Inc|Cipla|69097|1746||
+3039|Symplmed Pharmaceuticals, LLC|Symplmed|61894|1666||
+3040|Watson Pharma Private Ltd|Watson|00000|1666||
+3041|Zambon Switzerland LTD |Zambon|00000|1666||
+40|The Medicines Company (TMC)|TMC|65293|1666||
+3044|Octapharma USA Inc.|Octapharma|68982|2508||
+3043|Rockwell Medical, Inc.|Rockwell |00000|1666||
+3046|Aditya Labs, Inc.|Aditya|00000|1666||
+374|Exeltis, USA formerly Everett Laboratories Inc|Exeltis|00642|1666||
+1937|Exeltis USA Dermatology, Inc. formerly Quinnova Pharmceuticals|Exeltis|23710|374||
+2070|Marathon Pharmaceuticals LLC|Marathon|42998|1666||
+2601|Exeltis USA Dermatology, Inc. formerly Quinnova Pharmceuticals|Quinnova|23710|1937||
+1116|American Health Packaging|AHP|62584|1666||
+1380|Johnson and Johnson|J&J|08137|1755||
+3047|Rosemar Labs, LLC|Rosemar|50096|1666||
+3048|American Health Packaging|AHP|60687|1116||
+2581|MHC Medical Products, LLC|MHC |08496|1666||
+3045|MHC Pharma LLC|MHC|69235|2581||
+2649|Allison Medical|Allison|86227|1666||
+3049|Nutritional Medicinals, LLC|Nut Med|57858|1666||
+1749|Rosemont Pharmaceuticals Ltd|Rosemont |00000|1666||
+3050|TTY Biopharm Company Limited |TTY|00000|1666||
+915|GlaxoSmithKline Group of Companies|GSK|58160|43|skb|
+3051|Oncogenerix, Inc|Oncogeneri|13632|2929||
+169|Pfizer US Pharmaceuticals|Pfizer |00009|202|PFR|
+171|Pfizer US Pharmaceuticals|Pfizer |00013|202|PFR|
+181|Pfizer US Pharmaceuticals|Pfizer |00025|202|PFR|
+188|AbbVie US LLC formerly Solvay Pharmaceuticals Inc an Abbott Company|AbbVie|00032|219|AB|
+202|Pfizer US Pharmaceuticals|Pfizer |00049|1666|PFR|
+203|AbbVie US LL formerly Unimed Pharmaceuticals Inc a Abbott Company|Unimed|00051|188|AB|
+205|Organon USA Inc a Subsidiary of Merck & Co., Inc.|Organon|00052|2222|OTC|
+216|Pfizer US Pharmaceuticals|Pfizer |00069|202|PFR|
+217|Pfizer US Pharmaceuticals|Pfizer |00071|202|PFR|
+219|AbbVie US LLC  formerly Abbott Pharmaceutical Product Division|Abbott|00074|1666|AB|
+220|Abbott Nutrition formerly Ross Product Division Pharmaceuticals|Abbott Nut|70074|219|AB|
+224|Novartis Pharmaceuticals Corp|Novartis|00078|1666|NOV|
+358|Barr Laboratories Inc a Division of Teva USA|Barr|00555|233|BRR|
+471|Akorn Inc formerly Taylor Pharmaceuticals|Akorn|11098|550|AKR|
+526|Massachusetts Public Health Biologic La|MA Pub Hlt|14362|1666|MBL|
+550|Akorn Inc|Akorn|17478|1666|AKR|
+605|CSL Behring AG|CSL|44206|1652|ZLB|
+655|Alpha Therapeutic Corp|Alpha Ther|49669|2098|ALP|
+928|Wyeth Biopharma,  A subsidiary of Pfizer Inc|Wyeth|58394|163|PFR|
+994|NABI Biopharmaceuticals|NABI|59730|2103|NAB|
+1006|ESI Lederle Sub of Wyeth|ESI Ledrle|59911|162|PFR|
+1023|Cangene Corp|Cangene|60492|1666|CNJ|
+1079|Grifols USA, LLC|Grifols|61953|2435|GRF|
+1179|Parkedale Pharmaceuticals Inc|Parekdale|64029|1036|PD|
+1295|Novavax Inc|Novavax|66500|1666|NVX|
+1427|Berna Products Corp a Crucell Vaccines Inc Company|Berna|58337|1666|JNJ|
+1649|Novartis Pharmaceuticals Corporation|Novartis|00083|224|NOV|
+1652|CSL Behring|CSL|00053|1666|ZLB|
+1690|Talecris Biotherapeutics|Talecris|13533|2098|TAL|
+1848|Bayer HealthCare Pharmaceuticals|Bayer|50419|182|BAY|
+1976|ESI Lederle a division of Wyeth|ESI Lederl|00008|162|PFR|
+2046|ID Biomedical|ID Biomed|00000|43|IDB|
+2098|Grifols USA, LLC|Grifols|68516|1079|GRF|
+2103|Biotest Pharmaceuticals Corporation|Biotest |59730|1666|BTP|
+2193|Intercell Biomedical LTD|Intercell |42515|1666|INT|
+2222|Merck & Co., Inc.|Merck & Co|00000|1666|MSD|
+2279|Akorn Inc formerly Taylor Pharmaceuticals|Akorn|11098|550|AKR|
+2281|CSL Biotherapies, Inc; a subsidiary of CSL Limited|CSL|33332|1652|CSL|
+2435|Kedrion Biopharma Inc|Kedrion|76125|1666|KED|
+2496|Kedrion Biopharma Inc|Kedrion|76179|2435|KED|
+2499|CSL Behring LLC|CSL|63833|1652|ZLB|
+2700|Biotest Pharmaceuticals Corporation|Biotest|59730|2103|BTP|
+2713|Protein Sciences Corporation.|Protein Sc|42874|1666|PSC|
+2915|GREER Laboratories, Inc.|GREER|59617|1666|GRE|
+3010|Akorn Inc|Akorn|17478|550|AKR|
+163|Wyeth Pharmaceuticals Inc, A subsidiary of Pfizer Inc|Wyeth|00005|202|PFR|
+168|Wyeth Pharmaceuticals Inc, A subsidiary of Pfizer Inc|Wyeth|00008|163|PFR|
+199|Wyeth Pharmaceuticals Inc,  A subsidiary of Pfizer Inc|Wyeth|00046|163|PFR|
+270|Wyeth Pharmaceuticals Inc, A subsidiary of Pfizer Inc|Wyeth|00205|163|PFR|
+271|Wyeth Pharmaceuticals Inc, A subsidiary of Pfizer Inc|Wyeth|00206|163|PFR|
+667|Wyeth Research, A subsidiary of Pfizer Inc|Wyeth|50053|163|PFR|
+774|Celltech Pharmaceuticals, Inc|Celltech|53014|1712|NOV|
+803|Chiron Corp a Division of Novartis |Chiron|53905|224|NOV|
+1208|Bioport Corp|Bioport|64678|1666|MIP|
+1297|Evans Vaccines Ltd|Evans|66521|1666|NOV|
+2824|Kudco Ireland Ltd.|Kudco|00000|1918||
+2883|Pharmacyclics Inc|Pharmacycl|57962|219||
+1723|BASF Corp|BASF|10117|1663||
+3052|Kaylana Pharm, Inc|Kaylana|69120|1666||
+481|Bayer Corp Consumer Care Div formerly Merck Consumer Healthcare|Merck HC|11523|522||
+2694|Bayer Corp Consumer Care Div formerly Merck Consumer Care, a subsidiary of Merck and Co|Merck Cons|11523|522||
+2707|Bayer Corp Consumer Care Div formerly Merck Consumer Healthcare|Bayer HC|41100|522||
+290|Bayer Corp Consumer Care Div|Bayer |16500|522||
+291|Bayer Corp Consumer Care Div|Bayer|00280|522||
+1353|Axiom Pharmaceutical, Inc|Axiom|67870|522||
+2517|Bayer Corp Consumer Care Div|Bayer|25866|522||
+2518|Bayer Corp Consumer Care Div|Bayer |00240|522||
+2519|Bayer Corp Consumer Care Div|Bayer|65662|522||
+3053|Bayer Corp Consumer Care Div formerly Merck Consumer Care, a subsidiary of Merck and Co|Bayer|11017|2534||
+2269|Medecor Pharma LLC|Medecor|67112|1666||
+2522|Medecor Pharma LLC|Medecor|67112|1666||
+3054|Otonomy, Inc|Otonomy|69251|1666||
+3056|Afton Scientific|Afton|00000|1666||
+1926|Adamis Pharmaceuticals |Adamis|38739|1666||
+3057|Adamis Pharmaceuticals, Inc|Adamis|38739|1926||
+3058|Exeltis USA Dermatology, Inc. formerly Quinnova Pharmceuticals|Exeltis|23710|1937||
+3059|Odyssea Pharma|Odyssea|00000|1666||
+2941|Omeros Corporation|Omeros|62225|1666||
+3060|Sun Pharma Advanced Research Company Limited|Sun|47133|1858||
+2256|Dendreon Pharmaceuticals, an affiliate of Valeant Pharmaceuticals North America LLC|Dendreon|30237|1666||
+2382|Pinnacle Biologics|Pinnacle|00000|1666||
+1949|Orchid Pharma/Karalex Pharma, LLC|Karalex|42043|1593||
+349|Glenwood LLC|Glenwood|00516|1666||
+1184|InterMune is now a wholly-owned subsidiary of Roche|InterMune|64116|161||
+2735|i-Health, a Division of DSM|i-Health|87651|2740||
+3032|Accelis Pharma|Accelis|69166|3066||
+3062|Vertical Pharmaceuticals, LLC|Vertical|68025|1358||
+3063|SA3, LLC|SA3|69420|1666||
+3064|11 Health & Technologies LLC|11 Health|66741|1666||
+3065|Accelis Pharma|Accelis|69166|3066||
+3066|Novotec|Novotec|00000|1666||
+3067|i-Health, a Division of DSM|i-Health|53530|2740||
+3068|GenPak Solutions, LLC.|GenPak|75840|1666||
+841|Ranbaxy Laboratories Ltd a Sun Pharma Company|Ranbaxy|54907|1148||
+919|Medimmune Oncology Inc. a member of the AstraZeneca Group|Medimmune|58178|1028||
+1028|MedImmune Inc. a member of the AstraZeneca Group|MedImmune|66019|266|MED|
+1148|Ranbaxy Pharmaceuticals Inc. a Sun Pharma Company|Ranbaxy|63304|1858||
+1799|Ranbaxy Laboratories a Sun Pharma Company|Ranbaxy |10631|1148||
+3070|Basiem, LLC|Basiem|69597|1666||
+3071|Istituto Biochimico Italiano Giovanni Lorenzini Spa|Istituto B|00000|1666||
+392|Sandoz Inc|Sandoz|00781|224||
+1773|Glenmark Pharmaceuticals|Glenmark|68462|1666||
+3072|JayMac Pharmaceuticals, LLC|JayMac Pha|64661|1878||
+3073|Hetero Labs Limited|Hetero Lab|00000|1666||
+3075|Medtronic Diabetes|Medtronic|76300|1830||
+179|Allergan Inc|Allergan|00023|752||
+498|Allergan America|Allergan|11980|179||
+644|Sanofi Pasteur Inc|Sanofi Pas|49281|180|PMC|
+2721|Horizon Therapeutics Inc, formerly Hyperion Therapeutics|Horizon|76325|2396||
+2833|Horizon Therapeutics Inc, formerly Hyperion Therapeutics, Inc.|Horizon|00000|2721||
+3077|Rhodes Pharmaceuticals LP|Rhodes|42858|2210||
+3078|ANSHI PHARMACEUTICAL|ANSHI|00000|1666||
+289|Laser Inc|Laser|00277|343||
+760|US Pharmaceutical Corp|USPCO|52747|1666||
+2198|Manchester Pharmaceuticals, Inc, a wholly owned subcidiary of Retrophin|Manchester|45043|2956||
+3079|Turing Pharmaceuticals|Turing|69413|1666||
+3080|Aurohealth LLC, an Aurobindo Company|Aurohealth|58602|1536||
+3081|US Pharmaceutical Corp|USPCO|52747|760||
+3082|KG Pharmaceuticals LLC|KG Pharma|69203|1666||
+3083|Trinity Laboratories ,Inc |Trinity|00000|1666||
+3084|Leading Pharma|Leading|69315|1666||
+661|Par Pharmaceutical Inc|Par |49884|1155||
+835|Silarx Pharmaceuticals Inc|Silarx|54838|352||
+2270|Cangene BioPharma dba Emergent BioSolutions |Cangene |53270|1023|CNJ|
+2755|Similasan USA|Similasan|59262|1666||
+3085|Enovachem Manufacturing|Enovachem|76420|1666||
+3087|Sentynl Therapeutics|Sentynl|42358|1666||
+1462|Seyer Pharmatec, Inc.|Seyer|11026|1666||
+2060|Creekwood Pharmaceutical, Inc|Creekwood |15310|1847||
+3088|Seyer Pharmatec, Inc.|Seyer|98826|1462||
+3089|EXELA Pharma Sciences|EXELA|51754|1666||
+3090|Lupin Pharmaceuticals, Inc. Brand Division|Lupin|27437|1365||
+3091|Amedra, a wholly owned subsidiary of Impax Specialty Pharma|Amedra|52054|2921||
+3092|The Chao Center for Industrial Pharmacy and Contract Manufacturing|Choa|00000|1666||
+3093|Performance Health LLC.|PH LLC|31124|1666||
+1033|Actavis Inc, formerly Pacific Pharma|Actavis|60758|179||
+1577|Procter & Gamble Personal Health Care|P&G |37000|1666||
+2433|Harvard Drug Group|Harvard|00000|745||
+2683|Procter & Gamble Personal Health Care|P&G|23900|1577||
+2709|Procter & Gamble Personal Health Care|P&G|00149|1577||
+3061|Actavis Inc, formerly Pacific Pharma|Actavis|60758|1033||
+3094|Aytu BioScience, Inc.|Aytu|00000|1666||
+3096|HealthSmart|HealthSmar|67056|1666||
+3097|Bowyn Labs, LLC|Bowyn|52191|1666||
+3098|KMM Pharrmaceuticals|KMM|52187|1666||
+509|Indivior, formerly Reckitt Benckiser Pharmaceuticals, Inc.|Indivior|12496|1666||
+1011|Cypress Pharmaceutical Inc. a wholly-owned subsidiary of Pernix Therapeutics, LLC|Cypress |60258|1241||
+1166|Hawthorn Pharmaceuticals a wholly-owned subsidiary of Pernix Therapeutics, LLC|Hawthorn |63717|1011||
+1692|Vernalis Pharmaceuticals, Inc|Vernalis|16887|2043||
+1758|Exel Int. Medical Products|Exel |08287|3109||
+2530|Virtus Pharmaceuticals OPCO II|Virtus |76439|1666||
+2591|Horizon Pharma PLC, formerly Vidara Therapeutics|Horizon|42238|2396||
+3006|Oculus Innovative Sciences|Oculus|89116|1666||
+3042|Rempex Pharmaceuticals, a wholly-owned subsidiary of The Medicines Company|Rempex|54531|40||
+3076|Vernalis Therapeutics|Vernalis|69442|1666||
+3099|Spring Hill Therapeutics LLC|Spring|69833|1666||
+3101|Scilex Pharmaceuticals, Inc|Scilex|00000|1666||
+3103|Banner Life Sciences|Banner|69387|1666||
+3104|Virtus Pharmaceuticals|Virtus|69543|2530||
+3105|Revive Personal Products|Revive|34362|1666||
+3107|Cypress Pharmaceutical Inc. a wholly-owned subsidiary of Pernix Therapeutics, LLC|Cypress|60258|1011||
+3108|Reckitt Benckiser Group plc|Reckitt|67981|509||
+3109|Exelint International|Exelint|08287|1666||
+3110|Primus Pharmaceuticals, Inc.|Primus|68040|1360||
+3111|Journey Medical Corporation|Journey|69489|1666||
+1263|Salix Pharmaceuticals, Inc. a wholly owned subsidiary of Valeant Pharmaceuticals International, Inc.|Salix|65649|267||
+1356|Salix Pharmaceuticals, Inc. a wholly owned subsidiary of Valeant Pharmaceuticals International, Inc.|Salix|68012|1263||
+2045|U.S. Nutrition|US Nutrin|00000|1666||
+3074|Kythera Biopharrmaceuticals, Inc|Kythera|61168|179||
+3112|Altathera Pharmaceuticals|Altathera|00000|1666||
+1675|Sunrise Pharmaceutical, Inc.|Sunrise|11534|1666||
+3114|Scandinavian Formulas, Inc.|Scand|51137|1666||
+3115|Woodward Pharma Services LLC |Woodward|69784|1666||
+3116|Forest Labortories|Forest|00000|1666||
+195|GlaxoSmithKline Consumer Healthcare formerly Novartis Consumer Health|GSK|00043|224||
+214|GlaxoSmithKline Consumer Healthcare formerly Novartis Consumer Health|GSK|00067|224||
+409|Baxalta Inc, formerly Baxter Bioscience|Baxalta|00944|306|BAH|
+1136|Millennium Pharmaceuticals, Inc. wholly-owned subsidiary of Takeda Pharmaceutical Company Limited|Millennium|63020|1216||
+1563|Medtech Products, Inc a Prestige Brands Company formerly Insight Pharmaceuticals|Medtech|63736|2069||
+1829|Baxalta Inc, formerly Baxter Bioscience|Baxalta|64193|306|BAH|
+1978|Medtech Products, Inc a Prestige Brands Company|Medtech|63029|2069||
+2069|Medtech Products, Inc a Prestige Brands Company|Medtech|78112|1666||
+2562|Clover Pharmaceuticals Corp|Clover|49411|1666||
+2590|Medtech Products, Inc a Prestige Brands Company|Medtech|31248|2069||
+2643|Medtech Products, Inc a Prestige Brands Company|Medtech |63029|1978||
+2747|Medtech Products, Inc a Prestige Brands Company|Medtech|75137|2069||
+2890|Medtech Products, Inc a Prestige Brands Company|Medtech|42037|2069||
+3117|Baxalta Inc, formerly Baxter Bioscience|Baxalta|54129|306|BAH|
+3118|Clover Pharmaceuticals, Corp|Clover|49411|2562||
+146|Kadmon Pharmaceuticals, LLC|Kadmon|66435|1666||
+370|Boehringer Ingelheim Pharmaceuticals Inc|BIPI|00597|1666||
+1318|Endo Pharmaceuticals Inc.|ENDO|66887|1155||
+2304|Endo Pharmaceuticals Inc.|ENDO|52244|1318||
+2573|Kadmon Pharmaceuticals, LLC|Kadmon|66435|146||
+2846|Sebela Pharmaceuticals Inc|Sebela|54766|1666||
+3119|Vifor (International) Inc.|Vifor|59353|1666||
+3122|Nature's Bounty, Inc.|NB|99866|1666||
+3124|Veloxis Pharmaceuticals Inc.|Veloxis|68992|1666||
+3125|Hawthorn Pharmaceuticals a wholly-owned subsidiary of Pernix Therapeutics, LLC|Hawthorn|63717|1011||
+1355|Cubist Pharmaceuticals a wholly owned subsidiary of Merck & Co., Inc.|Cubist|67919|2222||
+2009|Teva Pharmaceuticals|Teva |00703|384||
+2151|Gavis Pharmaceuticals, LLC|Gavis|43386|1365||
+2586|Perrigo Diabetes Care|Perrigo|38396|1715||
+2587|Perrigo Diabetes Care|Perrigo|08396|1715||
+2746|Medtech Products, Inc a Prestige Brands Company|Medtech|14832|2069||
+3069|Whyteman Labs LLC|Whyteman L|69695|1666||
+3126|Pharmaco Technology LLC|Pharmaco |69691|1666||
+3127|Meijer, Inc.|Meijer|41250|2483||
+3128|Kirkman Laboratories, Inc.|Kirkman|58223|1666||
+3129|Oaklock, LLC|Oaklock|69263|1666||
+207|Roxane Laboratories Inc|Roxane|00054|961||
+491|Perry Medical Products|Perry Med |11763|1666||
+860|Bedford Laboratories, A Hikma Company|Bedford|55390|961||
+1882|Pari Respiratory, Inc|Pari|83490|1666||
+3021|NovaBay Pharmaceuticals, Inc.|NovaBay|57005|1666||
+3130|Long Pharmaceuticals, LLC|Long |00000|1666||
+3131|MaxPac, LLC|MaxPac|69816|1666||
+3132|Nexus Pharmaceuticals Inc.,|Nexus|14789|1843||

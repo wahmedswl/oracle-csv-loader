@@ -1,0 +1,7 @@
+﻿LicenseTypeID|LicenseTypeName|LicenseTypeDescription|
+1|NDA|New Drug Application|
+2|aNDA|Abbreviated new drug application|
+3|AG|Authorized Generic Product|
+4|N/A|Not Applicable|
+5|BLA|Biological Licensing Agreement|
+6|Import for Drug Shortage|Product is being imported and does not have an NDA or ANDA.  Reason for import is drug shortage|

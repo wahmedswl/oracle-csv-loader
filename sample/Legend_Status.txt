@@ -1,0 +1,3 @@
+﻿LegendStatusID|StatusName|
+1|OTC|
+2|Rx|
